@@ -2,7 +2,7 @@
    
     "discommands":"تم تعطيل الأوامرهنا لمشرفي مكالمات الدردشة هذه",
    
-    "asciiMaxCaracters": "20 characters maximum !",
+    "asciiMaxCaracters": "20 حرف اقصى شيء !",
 
     "botInfoName": "اسم البوت",
     "botInfoServers": "السيرفرات",
@@ -65,13 +65,13 @@
     "messageEventCommandUsage": "طريقة استخدام الامر :",
 
  
-    "kickSuccess": "Member kicked :",
+    "kickSuccess": "تم طرد :",
     "kickFailed": "لم استطع طرد : ",
 
-    "banSuccess": "Member banned :",
+    "banSuccess": "تم حظر:",
     "banFailed": "لم استطع حظر : ",
 
-    "unbanSuccess": "Member unbanned :",
+    "unbanSuccess": "تم فك حظر :",
     "unbanFailed": "لم استطع فك حظر : ",
 
     "slowmodeWasDisabled": "معاق",
