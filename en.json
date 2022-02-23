@@ -35,6 +35,9 @@
     "helpCommandExample": "Example :",
     "helpCommandAliases": "Aliases :",
     "helpCommandPermissions": "Permissions :",
+    "helpTitle":"📬 Need help? Here are all of my commands:",
+    "helpPrefix":"Prefix :",
+
 
     "vote": "Vote for the bot to help me ! ",
 
@@ -73,12 +76,6 @@
 
     "unbanSuccess": "Member unbanned :",
     "unbanFailed": "I couldn't unban this member : ",
-
-    "slowmodeWasDisabled": "disabled",
-    "slowmodeOldDuration": "Old duration :",
-    "slowmodeNewDuration": "New duration :",
-    "slowmodeDurationTooBig": "Duration can't be greater than 21600 seconds !",
-    "slowmodeNotADuration": "This is not a valid duration !",
 
     "errorMessage": "An error happened :",
     "errorUserNotFound": "I couldn't find this user !",
