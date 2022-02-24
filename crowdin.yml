@@ -1,5 +1,5 @@
 files:
-  - source: /en/bot.json
+  - source: src/
     ignore:
       - README.md
       - LICENSE
