@@ -1,20 +1,16 @@
 {
-    "discommands":"تم تعطيل الأوامرهنا لمشرفي مكالمات الدردشة هذه",
-   
+    "discommands": "تم تعطيل الأوامرهنا لمشرفي مكالمات الدردشة هذه",
     "asciiMaxCaracters": "20 حرف اقصى شيء !",
-
     "botInfoName": "اسم البوت",
     "botInfoServers": "السيرفرات",
     "botInfoMembers": "الاعضاء",
     "botInfoCreationDate": "تاريخ الانشاء",
     "botInfosLanguages": "اللغات المعتمدة",
-    "InviteBOTDescription":"تست بالعربي",
+    "InviteBOTDescription": "تست بالعربي",
     "profilePicture": "افتار",
-
     "serverInfoName": "اسم",
     "serverInfoMembers": "اعضاء",
     "serverInfoCreationDate": "تاريخ الانشاء",
-
     "userInfoDay": " يوم  ",
     "userInfoDays": " ايام",
     "userInfoUsername": "اسم",
@@ -26,7 +22,6 @@
     "userInfoStatus": "الحالة",
     "userInfoJoinedDate": "تاريخ دخول السيرفر",
     "userInfoCreatedDate": "تاريخ انشاء الحساب",
-
     "helpSupportServer": "اذا احتجت مساعدة انضم الى سيرفر الدعم الفني :",
     "helpCommandName": "الاسم :",
     "helpCommandDescription": "الوصف :",
@@ -34,15 +29,11 @@
     "helpCommandExample": "مثال :",
     "helpCommandAliases": "اختصارات :",
     "helpCommandPermissions": "صلاحيات :",
-    "helpTitle":"ترجمها للعربي:",
-    "helpPrefix":"البادئة :",
-
+    "helpTitle": "ترجمها للعربي:",
+    "helpPrefix": "البادئة :",
     "vote": "صوت للبوت لمساعدتي!",
-
     "pingLatencyBot": "زمن انتقال الروبوت:",
     "pingLatencyAPI": "وقت استجابة API:",
-
-
     "configPrefixLengthMax": "البادئة محددة بـ 3 أحرف!",
     "configPrefixOld": "بادئة قديمة:",
     "configPrefixNew": "بادئة جديدة:",
@@ -54,8 +45,6 @@
     "configLangNotString": "اللغات تحتوي فقط على حروف!",
     "configLogChannelOld": "روم اللوق القديم :",
     "configLogChannelNew": "روم اللوق الجديد :",
-    
-
     "messageEventMissingPerm1": "ليس لديك ",
     "messageEventMissingPerm2": " الصلاحيات لاستخدام هذا الامر !",
     "messageEventBotMissingPerm1": "ليس لدي ",
@@ -64,23 +53,12 @@
     "messageEventCommandNeedArg2one": " argument for this command, ",
     "messageEventCommandNeedArg2multiple": " arguments for this command, ",
     "messageEventCommandUsage": "طريقة استخدام الامر :",
-
- 
     "kickSuccess": "تم طرد :",
     "kickFailed": "لم استطع طرد : ",
-
     "banSuccess": "تم حظر:",
     "banFailed": "لم استطع حظر : ",
-
     "unbanSuccess": "تم فك حظر :",
     "unbanFailed": "لم استطع فك حظر : ",
-
-    "slowmodeWasDisabled": "معاق",
-    "slowmodeOldDuration": "المدة القديمة:",
-    "slowmodeNewDuration": "المدة الجديدة:",
-    "slowmodeDurationTooBig": "لا يمكن أن تكون المدة أكبر من 21600 ثانية!",
-    "slowmodeNotADuration": "هذه ليست مدة صالحة!",
-
     "errorMessage": "حدث خطأ:",
     "errorUserNotFound": "لم أتمكن من العثور على هذا المستخدم!",
     "errorChannelNotFound": "لم أتمكن من العثور على هذه القناة!",

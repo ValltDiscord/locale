@@ -1,20 +1,16 @@
 {
-    "discommands":"commands is disabled for this chat call admins",
-   
+    "discommands": "commands is disabled for this chat call admins",
     "asciiMaxCaracters": "20 characters maximum !",
-
     "botInfoName": "Name of the Bot",
     "botInfoServers": "Servers",
     "botInfoMembers": "Members",
     "botInfoCreationDate": "Creation Date",
     "botInfosLanguages": "Supported Languages",
-    "InviteBOTDescription":"` > Want me in your server? Invite me today!`",
+    "InviteBOTDescription": "` > Want me in your server? Invite me today!`",
     "profilePicture": "Avatar of",
-
     "serverInfoName": "Name",
     "serverInfoMembers": "Members",
     "serverInfoCreationDate": "Creation Date",
-
     "userInfoDay": " day",
     "userInfoDays": " days",
     "userInfoUsername": "Name",
@@ -26,7 +22,6 @@
     "userInfoStatus": "Status",
     "userInfoJoinedDate": "Joined the server the",
     "userInfoCreatedDate": "Created his account the",
-
     "helpSupportServer": "If you need help join the support server :",
     "helpCommandName": "Name :",
     "helpCommandDescription": "Description :",
@@ -34,16 +29,11 @@
     "helpCommandExample": "Example :",
     "helpCommandAliases": "Aliases :",
     "helpCommandPermissions": "Permissions :",
-    "helpTitle":"📬 Need help? Here are all of my commands:",
-    "helpPrefix":"Prefix :",
-
-
+    "helpTitle": "📬 Need help? Here are all of my commands:",
+    "helpPrefix": "Prefix :",
     "vote": "Vote for the bot to help me ! ",
-
     "pingLatencyBot": "Bot latency :",
     "pingLatencyAPI": "API latency :",
-
-
     "configPrefixLengthMax": "The prefix is limited to 3 characters !",
     "configPrefixOld": "Old prefix :",
     "configPrefixNew": "New prefix :",
@@ -55,8 +45,6 @@
     "configLangNotString": "Languages only contain letters !",
     "configLogChannelOld": "Old log channel :",
     "configLogChannelNew": "New log channel :",
-    
-
     "messageEventMissingPerm1": "You do not have the ",
     "messageEventMissingPerm2": " permission to execute this command !",
     "messageEventBotMissingPerm1": "I don't have the ",
@@ -65,17 +53,12 @@
     "messageEventCommandNeedArg2one": " argument for this command, ",
     "messageEventCommandNeedArg2multiple": " arguments for this command, ",
     "messageEventCommandUsage": "Here's how to use the command :",
-
- 
     "kickSuccess": "Member kicked :",
     "kickFailed": "I couldn't kick this member : ",
-
     "banSuccess": "Member banned :",
     "banFailed": "I couldn't ban this member : ",
-
     "unbanSuccess": "Member unbanned :",
     "unbanFailed": "I couldn't unban this member : ",
-
     "errorMessage": "An error happened :",
     "errorUserNotFound": "I couldn't find this user !",
     "errorChannelNotFound": "I couldn't find this channel !",
