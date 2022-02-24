@@ -1,6 +1,6 @@
 {
     "discommands": "commands is disabled for this chat call admins",
-    "asciiMaxCaracters": "20 characters maximum !",
+    "asciiMaxCaracters": "{0} characters maximum!",
     "botInfoName": "Name of the Bot",
     "botInfoServers": "Servers",
     "botInfoMembers": "Members",
