@@ -30,7 +30,7 @@
     "helpCommandAliases": "Aliases :",
     "helpCommandPermissions": "Permissions :",
     "helpTitle": "📬 Need help? Here are all of my commands:",
-    "helpPrefix": "Prefix :",
+    "helpPrefix": "Prefix:",
     "vote": "Vote for the bot to help me ! ",
     "pingLatencyBot": "Bot latency :",
     "pingLatencyAPI": "API latency :",
