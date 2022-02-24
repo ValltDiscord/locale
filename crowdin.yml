@@ -1,5 +1,5 @@
 files:
-  - source: en/
+  - source: /en/
     ignore:
       - README.md
       - LICENSE
