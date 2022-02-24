@@ -2,26 +2,26 @@
     "discommands": "commands is disabled for this chat call admins",
     "asciiMaxCaracters": "20 characters maximum !",
     "botInfoName": "Name of the Bot",
-    "botInfoServers": "Servers",
-    "botInfoMembers": "Members",
-    "botInfoCreationDate": "Creation Date",
+    "botInfoServers": "السيرفرات",
+    "botInfoMembers": "الاعضاء",
+    "botInfoCreationDate": "تاريخ الانشاء",
     "botInfosLanguages": "اللغات المدعومة",
-    "InviteBOTDescription": "` > Want me in your server? Invite me today!`",
-    "profilePicture": "Avatar of",
-    "serverInfoName": "Name",
-    "serverInfoMembers": "Members",
-    "serverInfoCreationDate": "Creation Date",
-    "userInfoDay": " day",
-    "userInfoDays": " days",
-    "userInfoUsername": "Name",
-    "userInfoUserIsNotBot": "Human",
-    "userInfoBoostYes": "Yes",
-    "userInfoBoostNo": "No",
-    "userInfoNickname": "Nickname",
-    "userInfoNoNickname": "Not any",
-    "userInfoStatus": "Status",
-    "userInfoJoinedDate": "Joined the server the",
-    "userInfoCreatedDate": "Created his account the",
+    "InviteBOTDescription": "` > هل تريدني في السيرفر الخاص بك؟ دعوني اليوم!`",
+    "profilePicture": "الصورة الرمزية",
+    "serverInfoName": "الاسم",
+    "serverInfoMembers": "الاعضاء",
+    "serverInfoCreationDate": "تاريخ الإنشاء",
+    "userInfoDay": " ايام",
+    "userInfoDays": " ايام",
+    "userInfoUsername": "الاسم",
+    "userInfoUserIsNotBot": "الانسان",
+    "userInfoBoostYes": "نعم",
+    "userInfoBoostNo": "لا",
+    "userInfoNickname": "الاسم المستعار",
+    "userInfoNoNickname": "لا يوجد",
+    "userInfoStatus": "الحالة",
+    "userInfoJoinedDate": "تاريخ دخول السيرفر",
+    "userInfoCreatedDate": "تاريخ انشاء الحساب",
     "helpSupportServer": "إذا كنت بحاجة إلى المساعدة، انضم إلى سيرفر الدعم الفني:",
     "helpCommandName": "الاسم:",
     "helpCommandDescription": "الوصف:",
@@ -30,18 +30,18 @@
     "helpCommandAliases": "الاختصارات:",
     "helpCommandPermissions": "الصلاحيات المطلوبة:",
     "helpTitle": "📬 بحاجة إلى مساعدة؟ إليك كل الأوامر الخاصة بي:",
-    "helpPrefix": "بادئة Vallt:",
-    "vote": "Vote for the bot to help me ! ",
-    "pingLatencyBot": "Bot latency :",
-    "pingLatencyAPI": "API latency :",
-    "configPrefixLengthMax": "The prefix is limited to 3 characters !",
-    "configPrefixOld": "Old prefix :",
-    "configPrefixNew": "New prefix :",
-    "configPrefixNotString": "The prefix contains only letters or symbols !",
-    "configLangTooLong": "Languages are only 2 characters long !",
-    "configLangOld": "Old language :",
-    "configLangNew": "New language :",
-    "configLangUnknown": "هذه اللغة غير متوفرة!",
+    "helpPrefix": "البرفكس:",
+    "vote": "قم بالتصويت للبوت لمساعدتي! ",
+    "pingLatencyBot": "وقت استجابة Api:",
+    "pingLatencyAPI": "سرعة استجابة الخادم:",
+    "configPrefixLengthMax": "البادئة تقتصر على 3 أحرف!",
+    "configPrefixOld": "البادئة القديمة :",
+    "configPrefixNew": "البادئة الجديدة:",
+    "configPrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
+    "configLangTooLong": "اللغات تتكون من حرفين فقط!",
+    "configLangOld": "اللغة القديمة:",
+    "configLangNew": "اللغة الجديدة:",
+    "configLangUnknown": "هذه اللغة ليست مدعومة حتى الآن!",
     "configLangNotString": "اللغات تحتوي فقط على حروف!",
     "configLogChannelOld": "Old log channel :",
     "configLogChannelNew": "New log channel :",
