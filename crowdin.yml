@@ -4,4 +4,4 @@ files:
       - README.md
       - LICENSE
       - .gitignore
-    translation: '%two_letters_code%.json'
+    translation: '%file_name%.%file_extension%'
