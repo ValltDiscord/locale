@@ -1,5 +1,6 @@
 {
     "avatarURL": "Avatar URL",
+    "iconURL": "Icon URL",
     "discommands": "commands is disabled for this chat call admins",
     "blacklistBanWarning": "You are banned from the bot for the following reason :",
     "asciiMaxCaracters": "{0} characters maximum!",
@@ -81,5 +82,7 @@
     "errorHarmYourself1": "You can't ",
     "errorHarmYourself2": " yourself !",
     "noBannerUser": "**{0}** does not have a banner",
-    "noBannerYou": "You don't have a banner"
+    "noBannerYou": "You don't have a banner",
+    "noCommandAliases": "No aliases for this command.",
+    "botsNoBanner": "🧐 Bots don't have a banner!"
 }
