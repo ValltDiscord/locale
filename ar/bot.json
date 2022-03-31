@@ -35,7 +35,7 @@
     "vote": "قم بالتصويت للبوت لمساعدتي! ",
     "pingLatencyBot": "وقت استجابة Api:",
     "pingLatencyAPI": "سرعة استجابة الخادم:",
-    "configPrefixLengthMax": "The prefix is limited to 3 characters !",
+    "configPrefixLengthMax": "البادئة تقتصر على حرفين فقط!",
     "configPrefixOld": "البادئة القديمة :",
     "configPrefixNew": "البادئة الجديدة:",
     "configPrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
