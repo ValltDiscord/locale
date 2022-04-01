@@ -1,8 +1,8 @@
 {
     "avatarURL": "رابط الصورة",
     "iconURL": "Icon URL",
-    "discommands": "commands is disabled for this chat call admins",
-    "blacklistBanWarning": "You are banned from the bot for the following reason :",
+    "discommands": "تم تعطيل الأوامر هنا لمعرفة السبب الرجاء التواصل مع المشرفين",
+    "blacklistBanWarning": "تم حظرك من إستخدام البوت ، تواصل معنا لمعرفة السبب.",
     "asciiMaxCaracters": "20 characters maximum !",
     "botInfoName": "اسم البوت",
     "botInfoServers": "السيرفرات",
@@ -32,7 +32,6 @@
     "helpCommandExample": "أمثلة للأمر:",
     "helpCommandAliases": "الاختصارات:",
     "helpCommandPermissions": "الصلاحيات المطلوبة:",
-    "helpTitle": "📬 بحاجة إلى مساعدة؟ إليك كل الأوامر الخاصة بي:",
     "helpPrefix": "بادئة Vallt:",
     "vote": "قم بالتصويت للبوت لمساعدتي! ",
     "pingLatencyBot": "وقت استجابة Api:",
@@ -67,8 +66,6 @@
     "ShareSetDescription": "**Done Set Description**",
     "ShareSetImage": "**Done Set Image**",
     "EcoBioNewBio": "New",
-    "EcoBioTooLong": "25 characters maximum !",
-    "EcoBioDoneNetSet": "Done Set new Bio",
     "kickSuccess": "Member kicked :",
     "kickFailed": "I couldn't kick this member : ",
     "banSuccess": "Member banned :",
