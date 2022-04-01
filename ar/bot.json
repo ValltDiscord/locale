@@ -1,15 +1,16 @@
 {
+    "bannerURL": "رابط البانر",
     "avatarURL": "رابط الصورة",
     "iconURL": "Icon URL",
     "discommands": "تم تعطيل الأوامر هنا لمعرفة السبب الرجاء التواصل مع المشرفين",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
-    "asciiMaxCaracters": "20 characters maximum !",
-    "name": "Name",
-    "nickname": "Nickname",
-    "servers": "Servers",
-    "members": "Members",
-    "channels": "Channels",
-    "creationDate": "Creation Date",
+    "asciiMaxCaracters": "{0} characters maximum!",
+    "name": "الاسم",
+    "nickname": "الاسم المستعار",
+    "servers": "السيرفرات",
+    "members": "الأعضاء",
+    "channels": "الرومات",
+    "creationDate": "تاريخ الإنشاء",
     "botInfosLanguages": "اللغات المدعومة",
     "InviteBOTDescription": "هل تريدني في السيرفر الخاص بك؟ أضفني الآن!",
     "userInfoDay": " ايام",
@@ -50,14 +51,14 @@
     "ShareSetRoom": "**Done Set Share Room **",
     "ShareSetDescription": "**Done Set Description**",
     "ShareSetImage": "**Done Set Image**",
-    "EcoBioNewBio": "New",
+    "EcoBioNewBio": "جديد",
     "errorMessage": "An error happened :",
-    "errorUserNotFound": "I couldn't find this user !",
-    "errorChannelNotFound": "I couldn't find this channel !",
+    "errorUserNotFound": "لم أتمكن من العثور على هذا المستخدم!",
+    "errorChannelNotFound": "لم أتمكن من العثور على الروم!",
     "errorHarmYourself1": "You can't ",
     "errorHarmYourself2": " yourself !",
     "noBannerUser": "**{0}** ليس لديه بانر",
-    "noBannerYou": "انت ليس لديك بانر",
+    "noBannerYou": "أنت ليس لديك بانر",
     "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
     "botsNoBanner": "🧐 البوتات ليس لديهم بانر!"
 }
