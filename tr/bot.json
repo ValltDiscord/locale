@@ -2,7 +2,7 @@
     "bannerURL": "Başlık URL'si",
     "avatarURL": "Avatar URL'si",
     "iconURL": "Simge URL'si",
-    "discommands": "komutlar burada devre dışı bırakılır. Nedenini öğrenmek için lütfen yöneticilerle iletişime geçin.",
+    "discommands": "commands are disabled here. To find out the reason, please contact the admins.",
     "blacklistBanWarning": "Kara listeye alındınız, kara listeye itiraz etmek için bizimle iletişime geçin.",
     "asciiMaxCaracters": "maksimum {0} karakter!",
     "name": "İsim",
