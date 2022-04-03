@@ -2,7 +2,7 @@
     "bannerURL": "Banner URL",
     "avatarURL": "Avatar URL",
     "iconURL": "Icon URL",
-    "discommands": "commands is disabled for this chat call admins",
+    "discommands": "commands are disabled here. To find out the reason, please contact the admins.",
     "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
     "asciiMaxCaracters": "{0} characters maximum!",
     "name": "Name",
