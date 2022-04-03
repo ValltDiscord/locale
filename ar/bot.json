@@ -1,7 +1,7 @@
 {
     "bannerURL": "رابط البانر",
     "avatarURL": "رابط الصورة",
-    "iconURL": "Icon URL",
+    "iconURL": "رابط الايقونة",
     "discommands": "تم تعطيل الأوامر هنا لمعرفة السبب الرجاء التواصل مع المشرفين",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
     "asciiMaxCaracters": "{0} characters maximum!",
