@@ -28,6 +28,7 @@
     "configPrefixOld": "البادئة القديمة :",
     "configPrefixNew": "البادئة الجديدة:",
     "configPrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
+    "configLangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/vallt",
     "configLangTooLong": "اللغات تتكون من حرفين فقط!",
     "configLangOld": "اللغة القديمة:",
     "configLangNew": "اللغة الجديدة:",
