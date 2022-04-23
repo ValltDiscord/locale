@@ -4,7 +4,7 @@
     "iconURL": "Icon URL",
     "discommands": "commands are disabled here. To find out the reason, please contact the admins.",
     "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
-    "asciiMaxCaracters": "{0} characters maximum!",
+    "asciiMaxCaracters": "{0} characters maximum.",
     "name": "Name",
     "nickname": "Nickname",
     "servers": "Servers",
