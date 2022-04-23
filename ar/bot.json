@@ -4,7 +4,7 @@
     "iconURL": "رابط الايقونة",
     "discommands": "الأوامر معطلة هنا. لمعرفة السبب، يرجى التواصل مع المشرفين.",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
-    "asciiMaxCaracters": "{0} من الأحرف كحد أقصى!",
+    "asciiMaxCaracters": "{0} characters maximum.",
     "name": "الاسم",
     "nickname": "الاسم المستعار",
     "servers": "السيرفرات",
