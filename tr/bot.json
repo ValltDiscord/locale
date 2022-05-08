@@ -1,7 +1,7 @@
 {
     "bannerURL": "Başlık URL'si",
     "avatarURL": "Avatar URL'si",
-    "iconURL": "Icon URL:",
+    "iconURL": "Icon URL",
     "discommands": "komutlar burada devre dışı bırakılır. Nedenini öğrenmek için lütfen yöneticilerle iletişime geçin.",
     "blacklistBanWarning": "Kara listeye alındınız, kara listeye itiraz etmek için bizimle iletişime geçin.",
     "asciiMaxCaracters": "{0} characters maximum!",
@@ -58,9 +58,16 @@
     "botinfo": {
         "servers": "Servers",
         "users": "Users",
-        "channels ": "Channels",
+        "channels": "Channels",
         "uptime": "Uptime",
         "createdAt": "CreatedAt",
-        "ram ": "Ram"
+        "ram": "Ram"
+    },
+    "tickets": {
+        "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
+        "wait": "Creating Ticket, Please wait...",
+        "sure": "Are you sure you would like to close this ticket ?",
+        "delete": "Ticket will be deleted in a few seconds",
+        "created": "Ticket created "
     }
 }

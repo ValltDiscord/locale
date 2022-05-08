@@ -1,7 +1,7 @@
 {
     "bannerURL": "رابط البنر",
     "avatarURL": "رابط الصورة",
-    "iconURL": "رابط الايقونة",
+    "iconURL": "Icon URL",
     "discommands": "الأوامر معطلة هنا. لمعرفة السبب، يرجى التواصل مع المشرفين.",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
     "asciiMaxCaracters": "{0} من الأحرف كحد أقصى!",
@@ -58,9 +58,16 @@
     "botinfo": {
         "servers": "السيرفرات",
         "users": "المستخدمون",
-        "channels ": "الرومات",
+        "channels": "Channels",
         "uptime": "ظهور",
         "createdAt": "أنشئت في",
-        "ram ": "الرامات "
+        "ram": "Ram"
+    },
+    "tickets": {
+        "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
+        "wait": "Creating Ticket, Please wait...",
+        "sure": "Are you sure you would like to close this ticket ?",
+        "delete": "Ticket will be deleted in a few seconds",
+        "created": "Ticket created "
     }
 }
