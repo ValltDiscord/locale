@@ -1,10 +1,10 @@
 {
     "bannerURL": "رابط البنر",
     "avatarURL": "رابط الصورة",
-    "iconURL": "رابط الايقونة",
+    "iconURL": "Icon URL:",
     "discommands": "الأوامر معطلة هنا. لمعرفة السبب، يرجى التواصل مع المشرفين.",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
-    "asciiMaxCaracters": "{0} characters maximum!",
+    "asciiMaxCaracters": "{0} من الأحرف كحد أقصى!",
     "name": "الاسم",
     "nickname": "الاسم المستعار",
     "servers": "السيرفرات",
@@ -15,9 +15,9 @@
     "InviteBOTDescription": "هل تريدني في السيرفر الخاص بك؟ أضفني الآن!",
     "userInfoDay": " ايام",
     "userInfoDays": " ايام",
-    "linkemojireply": "Please specify some emojis ",
-    "Setchanneldisabledcommands": "Please mention channel you want to disabled commands on it",
-    "Replydonedisabledcommands": "Successfully disabled commands in {0} ",
+    "linkemojireply": "الرجاء تحديد بعض الرموز التعبيرية",
+    "Setchanneldisabledcommands": "يرجى ذكر القناة التي تريد تعطيل الأوامر عليها",
+    "Replydonedisabledcommands": "تم تعطيل الأوامر بنجاح في {0}",
     "helpCommandUsage": "الاستخدام:",
     "helpCommandExample": "أمثلة:",
     "helpCommandAliases": "الاختصارات:",
@@ -30,7 +30,7 @@
     "configPrefixOld": "البادئة القديمة :",
     "configPrefixNew": "البادئة الجديدة:",
     "configPrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
-    "configLangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
+    "configLangReply": "اللغات المدعومة هي العربية والتركية والإنجليزية ، ساعدنا في دعم لغتك على https://crowdin.com/project/valltdiscorddiscord",
     "configLangTooLong": "اللغات تتكون من حرفين فقط!",
     "configLangOld": "اللغة القديمة:",
     "configLangNew": "اللغة الجديدة:",
@@ -56,11 +56,11 @@
     "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
     "botsNoBanner": "🧐 البوتات ليس لديهم بانر!",
     "botinfo": {
-        "servers": "Servers",
-        "users": "Users",
-        "channels ": "Channels",
-        "uptime": "Uptime",
-        "createdAt": "CreatedAt",
-        "ram ": "Ram"
+        "servers": "السيرفرات",
+        "users": "المستخدمون",
+        "channels ": "الرومات",
+        "uptime": "ظهور",
+        "createdAt": "أنشئت في",
+        "ram ": "الرامات "
     }
 }
