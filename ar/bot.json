@@ -54,5 +54,13 @@
     "noBannerUser": "**{0}** ليس لديه بانر",
     "noBannerYou": "أنت ليس لديك بانر",
     "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
-    "botsNoBanner": "🧐 البوتات ليس لديهم بانر!"
+    "botsNoBanner": "🧐 البوتات ليس لديهم بانر!",
+    "botinfo": {
+        "servers": "Servers",
+        "users": "Users",
+        "channels ": "Channels",
+        "uptime": "Uptime",
+        "createdAt": "CreatedAt",
+        "ram ": "Ram"
+    }
 }
