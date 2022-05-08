@@ -4,7 +4,7 @@
     "iconURL": "Simge URL'si",
     "discommands": "komutlar burada devre dışı bırakılır. Nedenini öğrenmek için lütfen yöneticilerle iletişime geçin.",
     "blacklistBanWarning": "Kara listeye alındınız, kara listeye itiraz etmek için bizimle iletişime geçin.",
-    "asciiMaxCaracters": "maksimum {0} karakter!",
+    "asciiMaxCaracters": "{0} characters maximum!",
     "name": "İsim",
     "nickname": "Takma ad",
     "servers": "sunucular",
@@ -15,7 +15,7 @@
     "InviteBOTDescription": "Beni sunucunda ister misin? Beni bugün davet et!",
     "userInfoDay": "gün",
     "userInfoDays": "günler",
-    "LinkemojiReply": "Lütfen birkaç emoji belirtin",
+    "linkemojireply": "Please specify some emojis ",
     "Setchanneldisabledcommands": "Please mention channel you want to disabled commands on it",
     "Replydonedisabledcommands": "Successfully disabled commands in {0} ",
     "helpCommandUsage": "Kullanım:",
@@ -54,5 +54,13 @@
     "noBannerUser": "**{0}** does not have a banner",
     "noBannerYou": "You don't have a banner",
     "noCommandAliases": "No aliases for this command.",
-    "botsNoBanner": "🧐 Bots don't have a banner!"
+    "botsNoBanner": "🧐 Bots don't have a banner!",
+    "botinfo": {
+        "servers": "Servers",
+        "users": "Users",
+        "channels ": "Channels",
+        "uptime": "Uptime",
+        "createdAt": "CreatedAt",
+        "ram ": "Ram"
+    }
 }
