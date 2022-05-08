@@ -1,7 +1,7 @@
 {
     "bannerURL": "Başlık URL'si",
     "avatarURL": "Avatar URL'si",
-    "iconURL": "Simge URL'si",
+    "iconURL": "Icon URL:",
     "discommands": "komutlar burada devre dışı bırakılır. Nedenini öğrenmek için lütfen yöneticilerle iletişime geçin.",
     "blacklistBanWarning": "Kara listeye alındınız, kara listeye itiraz etmek için bizimle iletişime geçin.",
     "asciiMaxCaracters": "{0} characters maximum!",
