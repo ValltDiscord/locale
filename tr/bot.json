@@ -67,9 +67,12 @@
     },
     "tickets": {
         "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
+        "butclose": "Close",
+        "butcancel": "Cancel",
         "wait": "Creating Ticket, Please wait...",
         "sure": "Are you sure you would like to close this ticket ?",
         "delete": "Ticket will be deleted in a few seconds",
-        "created": "Ticket created "
+        "created": "Ticket created ",
+        "closed": "Ticket Closed by "
     }
 }
