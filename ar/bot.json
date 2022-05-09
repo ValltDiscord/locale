@@ -1,7 +1,7 @@
 {
     "bannerURL": "رابط البنر",
     "avatarURL": "رابط الصورة",
-    "iconURL": "Icon URL",
+    "iconURL": "رابط الايقونة",
     "discommands": "الأوامر معطلة هنا. لمعرفة السبب، يرجى التواصل مع المشرفين.",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
     "asciiMaxCaracters": "{0} من الأحرف كحد أقصى!",
@@ -55,21 +55,21 @@
     "noBannerYou": "أنت ليس لديك بانر",
     "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
     "botsNoBanner": "🧐 البوتات ليس لديهم بانر!",
-    "onlyowner": ":x: Only ownership of this server can use this command",
-    "onlydevs": ":x: Only devs can use this command",
+    "onlyowner": ":x: يمكن فقط لملكية هذا الخادم استخدام هذا الأمر",
+    "onlydevs": ":x: يمكن للمطورين فقط استخدام هذا الأمر",
     "botinfo": {
         "servers": "السيرفرات",
         "users": "المستخدمون",
-        "channels": "Channels",
+        "channels": "الرومات",
         "uptime": "ظهور",
         "createdAt": "أنشئت في",
-        "ram": "Ram"
+        "ram": "الرامات "
     },
     "tickets": {
-        "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
-        "wait": "Creating Ticket, Please wait...",
-        "sure": "Are you sure you would like to close this ticket ?",
-        "delete": "Ticket will be deleted in a few seconds",
-        "created": "Ticket created "
+        "open": "الدعم سيكون معك قريبا\nلإغلاق هذه التذكرة اضغط على زر 🔒",
+        "wait": "جاري إنشاء التذكرة ، برجاء الانتظار ...",
+        "sure": "هل أنت متأكد أنك تريد إغلاق هذه التذكرة؟",
+        "delete": "سيتم حذف التذكرة في بضع ثوان",
+        "created": "تم إنشاء التذكرة"
     }
 }
