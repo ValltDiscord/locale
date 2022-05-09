@@ -55,6 +55,8 @@
     "noBannerYou": "أنت ليس لديك بانر",
     "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
     "botsNoBanner": "🧐 البوتات ليس لديهم بانر!",
+    "onlyowner": ":x: Only ownership of this server can use this command",
+    "onlydevs": ":x: Only devs can use this command",
     "botinfo": {
         "servers": "السيرفرات",
         "users": "المستخدمون",
