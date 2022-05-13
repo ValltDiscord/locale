@@ -4,7 +4,7 @@
     "iconURL": "Icon URL",
     "discommands": "komutlar burada devre dışı bırakılır. Nedenini öğrenmek için lütfen yöneticilerle iletişime geçin.",
     "blacklistBanWarning": "Kara listeye alındınız, kara listeye itiraz etmek için bizimle iletişime geçin.",
-    "asciiMaxCaracters": "{0} characters maximum!",
+    "asciiMaxCaracters": "maksimum {0} karakter!",
     "name": "İsim",
     "nickname": "Takma ad",
     "servers": "sunucular",
