@@ -30,7 +30,7 @@
     "configPrefixOld": "Eski önek:",
     "configPrefixNew": "Yeni önek:",
     "configPrefixNotString": "Ön ek sadece harfler veya semboller içerir!",
-    "configLangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
+    "configLangReply": " Desteklenen diller Arapça, Türkçe , İngilizce'dir, https://crowdin.com/project/valltdiscorddiscord adresinde sizin dilinizi desteklememize yardımcı olun",
     "configLangTooLong": "Diller sadece 2 karakter uzunluğundadır!",
     "configLangOld": "Eski dil:",
     "configLangNew": "Yeni dil :",
