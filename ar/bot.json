@@ -12,12 +12,13 @@
     "channels": "الرومات",
     "creationDate": "تاريخ الإنشاء",
     "botInfosLanguages": "اللغات المدعومة",
-    "InviteBOTDescription": "هل تريدني في السيرفر الخاص بك؟ أضفني الآن!",
+    "InviteBOTDescription": "Want me in your server? Invite me today!",
     "userInfoDay": "يوم",
     "userInfoDays": " ايام",
     "linkemojireply": "الرجاء تحديد بعض الرموز التعبيرية",
-    "Setchanneldisabledcommands": "منشن الروم الى تريد تعطل الأوامر فيه .",
-    "Replydonedisabledcommands": "تم تعطيل الأوامر بنجاح في {0}",
+    "setdisabledcommands": "Please mention channel you want to disabled commands on it",
+    "disabledcommands": "Successfully disabled commands in {0} ",
+    "enablecommands": "Successfully enable commands in {0}",
     "helpCommandUsage": "الاستخدام:",
     "helpCommandExample": "أمثلة:",
     "helpCommandAliases": "الاختصارات:",
@@ -57,6 +58,8 @@
     "botsNoBanner": "🧐 البوتات ليس لديهم بنر!",
     "onlyowner": ":x: فقط صاحب السيرفر يقدر يستخدم هذا الأمر",
     "onlydevs": ":x : فقط المطورين يقدرو يستخدمو هذا الأمر",
+    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
+    "nofoundmusic": "No result found for {0}!",
     "botinfo": {
         "servers": "السيرفرات",
         "users": "المستخدمون",
@@ -77,5 +80,30 @@
         "closed": "تم اغلاق التذكرة من قبل",
         "onlysupport": ":x: يمكن فقط للدعم حذف هذه التذكرة",
         "youneed": ":x:  تحتاج إلى إعداد التذاكر أولاً عن طريق استخدام :"
+    },
+    "music": {
+        "song": "Please provide a song name or link.",
+        "joinvoice": "You need to be in a same/voice channel.",
+        "noqueue": "There is nothing in the queue right now!",
+        "searching": "Searching.....",
+        "processing": "Processing.....",
+        "loop": "`🔁` | **Song is loop:** Current",
+        "unloop": "`🔁` | **Song is unloop:** Current",
+        "youtube": {
+            "uploader": "Uploader:",
+            "requester": "Requester:",
+            "volume": "Volume:",
+            "views": "Views:",
+            "likes": "Likes:"
+        }
+    },
+    "volume": {
+        "vol": "`Current` **volume** : **{0}%**",
+        "enternumber": "Please enter a valid number",
+        "only100": "Please provide a number between 1 and 100"
+    },
+    "skip": {
+        "noqueue": "`🚨` | **There are no** `Songs` **in queue**",
+        "done": "`⏭` | **Song has been:** `Skipped`"
     }
 }
