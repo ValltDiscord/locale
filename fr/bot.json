@@ -73,9 +73,9 @@
         "wait": "Creating Ticket, Please wait...",
         "sure": "Are you sure you would like to close this ticket ?",
         "delete": "Ticket will be deleted in a few seconds",
-        "created": "Ticket created ",
-        "closed": "Ticket Closed by ",
-        "onlysupport": ":x: Only support can delete this ticket",
-        "youneed": ":x: You need to setup tickets first by use"
+        "created": "Billet créé",
+        "closed": "Billet Fermé par",
+        "onlysupport": ":x: Seul le support peut supprimer ce Billet",
+        "youneed": ":x: Vous devez d'abord configurer les Billets en utilisant"
     }
 }
