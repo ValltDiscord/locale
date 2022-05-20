@@ -1,8 +1,8 @@
 {
     "bannerURL": "Banner",
-    "avatarURL": "Avatar URL",
+    "avatarURL": "Lien d’image",
     "iconURL": "Icon URL",
-    "discommands": "commands are disabled here. To find out the reason, please contact the admins.",
+    "discommands": "Cette commande est fermée ici. Pour avoir une raison, contactez les admins.",
     "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
     "asciiMaxCaracters": "{0} characters maximum!",
     "name": "Name",
