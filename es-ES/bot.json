@@ -84,26 +84,26 @@
     "music": {
         "song": "Proporcione un nombre de canción o un enlace.",
         "joinvoice": "Tienes que estar en un canal mismo/de voz.",
-        "noqueue": "There is nothing in the queue right now!",
-        "searching": "Searching.....",
-        "processing": "Processing.....",
-        "loop": "`🔁` | **Song is loop:** Current",
-        "unloop": "`🔁` | **Song is unloop:** Current",
+        "noqueue": "¡No hay nada en la cola ahora mismo!",
+        "searching": "Buscando.....",
+        "processing": "Procesando.....",
+        "loop": "`🔁` | **La canción está en bucle:** Actual",
+        "unloop": "`🔁` | **La canción se libera:** Actual",
         "youtube": {
-            "uploader": "Uploader:",
-            "requester": "Requester:",
-            "volume": "Volume:",
-            "views": "Views:",
-            "likes": "Likes:"
+            "uploader": "Subidor:",
+            "requester": "Solicitante:",
+            "volume": "Volumen:",
+            "views": "Puntos de vista:",
+            "likes": "Gustos:"
         }
     },
     "volume": {
-        "vol": "`Current` **volume** : **{0}%**",
-        "enternumber": "Please enter a valid number",
-        "only100": "Please provide a number between 1 and 100"
+        "vol": "`Actual` **volumen**: **{0}%**",
+        "enternumber": "por favor ingrese un número valido",
+        "only100": "Por favor proporcione un número entre 1 y 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **There are no** `Songs` **in queue**",
-        "done": "`⏭` | **Song has been:** `Skipped`"
+        "noqueue": "`🚨` | **No hay** `Canciones` **en cola**",
+        "done": "`⏭` | **La canción ha sido:** `Omitida`"
     }
 }
