@@ -2,6 +2,7 @@
     "bannerURL": "URL de la bannière\n",
     "avatarURL": "Lien d’image",
     "iconURL": "URL de l'icône",
+    "sumbit": "Thx",
     "discommands": "Cette commande est fermée ici. Pour avoir une raison, contactez les admins.",
     "blacklistBanWarning": "Vous êtes sur liste noire, contactez-nous pour savoir raison du Blacklist.",
     "asciiMaxCaracters": "{0} caractères maximum !",
