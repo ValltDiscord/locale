@@ -69,6 +69,11 @@
         "createdAt": "Oluşturuldu",
         "ram": "Veri deposu"
     },
+    "form": {
+        "accept": "Accept",
+        "deny": "Deny",
+        "open": "تكت فبول الاداره"
+    },
     "tickets": {
         "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
         "butclose": "Kapat",
@@ -108,3 +113,6 @@
         "done": "`⏭` | **Song has been:** `Skipped`"
     }
 }
+
+
+

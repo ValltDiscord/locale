@@ -69,6 +69,11 @@
         "createdAt": "Créé à",
         "ram": "Ram"
     },
+    "form": {
+        "accept": "Accept",
+        "deny": "Deny",
+        "open": "تكت فبول الاداره"
+    },
     "tickets": {
         "open": "Le support sera avec vous dès que possible.\nPour fermer ce ticket cliquez sur le bouton 🔒",
         "butclose": "Fermer",
@@ -108,3 +113,6 @@
         "done": "`⏭` | **La chanson a été :** `Ignorée`\n"
     }
 }
+
+
+

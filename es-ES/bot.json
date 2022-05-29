@@ -69,6 +69,11 @@
         "createdAt": "Creado en",
         "ram": "RAM"
     },
+    "form": {
+        "accept": "Accept",
+        "deny": "Deny",
+        "open": "تكت فبول الاداره"
+    },
     "tickets": {
         "open": "El soporte estará contigo en breve.\nPara cerrar este ticket haz clic en el botón 🔒",
         "butclose": "Cerrar",
@@ -108,3 +113,6 @@
         "done": "`⏭` | **La canción ha sido:** `Omitida`"
     }
 }
+
+
+
