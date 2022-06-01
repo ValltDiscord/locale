@@ -51,6 +51,7 @@
     "errorMessage": "حدث خطأ:",
     "errorUserNotFound": "لم أتمكن من العثور على هذا المستخدم!",
     "errorChannelNotFound": "لم أتمكن من العثور على الروم!",
+    "errorRoleNotFound": "I couldn't find this role !",
     "errorHarmYourself1": "لا يمكنك",
     "errorHarmYourself2": " نفسك !",
     "noBannerUser": "**{0}** ليس لديه بنر",
@@ -116,5 +117,3 @@
         "done": "`⏭` | ** الأغنية : ** تم تخطيها"
     }
 }
-
-
