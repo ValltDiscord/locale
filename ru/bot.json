@@ -51,6 +51,7 @@
     "errorMessage": "Произошла ошибка:",
     "errorUserNotFound": "Я не смог найти этого пользователя!",
     "errorChannelNotFound": "Я не смог найти этот канал!",
+    "errorRoleNotFound": "I couldn't find this role !",
     "errorHarmYourself1": "Вы не можете",
     "errorHarmYourself2": "самим собой !",
     "noBannerUser": "**{0}** не имеет баннера",
@@ -116,5 +117,3 @@
         "done": "`⏭` | **Песня была:** `Skipped`"
     }
 }
-
-
