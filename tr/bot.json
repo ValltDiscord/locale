@@ -51,6 +51,7 @@
     "errorMessage": "Bir hata oluştu :",
     "errorUserNotFound": "Bu kullanıcıyı bulamadım !",
     "errorChannelNotFound": "Bu kanalı bulamadım !",
+    "errorRoleNotFound": "I couldn't find this role !",
     "errorHarmYourself1": "You can't ",
     "errorHarmYourself2": " yourself !",
     "noBannerUser": "**{0}** does not have a banner",
@@ -116,5 +117,3 @@
         "done": "`⏭` | **Song has been:** `Skipped`"
     }
 }
-
-
