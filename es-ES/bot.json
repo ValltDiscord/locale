@@ -69,6 +69,9 @@
         "createdAt": "Creado en",
         "ram": "RAM"
     },
+    "welcome": {
+        "setchannel": "Welcome channel has been set to {0}"
+    },
     "form": {
         "accept": "Accept",
         "deny": "Deny",
@@ -113,6 +116,5 @@
         "done": "`⏭` | **La canción ha sido:** `Omitida`"
     }
 }
-
 
 
