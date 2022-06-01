@@ -75,7 +75,7 @@
     "form": {
         "accept": "Accepte",
         "deny": "Refusé",
-        "open": "Ticket d'acceptation d'administration"
+        "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
     },
     "tickets": {
         "open": "Le support sera avec vous dès que possible.\nPour fermer ce ticket cliquez sur le bouton 🔒",
