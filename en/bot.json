@@ -69,14 +69,13 @@
         "createdAt": "CreatedAt",
         "ram": "Ram"
     },
-"welcome":{
-"setchannel":"Welcome channel has been set to {0}"
-},
-    "form":{
-        "accept":"Accept",
-        "deny":"Deny",
-        "open":"تكت فبول الاداره"
-
+    "welcome": {
+        "setchannel": "Welcome channel has been set to {0}"
+    },
+    "form": {
+        "accept": "Accept",
+        "deny": "Deny",
+        "open": "تكت فبول الاداره"
     },
     "tickets": {
         "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
