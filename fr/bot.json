@@ -51,6 +51,7 @@
     "errorMessage": "Une erreur s'est produite :",
     "errorUserNotFound": "Je peux pas trouvé cet utilisateur !",
     "errorChannelNotFound": "Je peux pas trouvé cette chaîne !",
+    "errorRoleNotFound": "I couldn't find this role !",
     "errorHarmYourself1": "Vous ne pouvez pas ",
     "errorHarmYourself2": "Vous-même !",
     "noBannerUser": "**{0}** n'a pas de bannière",
@@ -116,5 +117,3 @@
         "done": "`⏭` | **La chanson a été :** `Ignorée`\n"
     }
 }
-
-
