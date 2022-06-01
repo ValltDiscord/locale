@@ -69,6 +69,9 @@
         "createdAt": "Créé à",
         "ram": "RAM"
     },
+    "welcome": {
+        "setchannel": "Welcome channel has been set to {0}"
+    },
     "form": {
         "accept": "Accepte",
         "deny": "Refusé",
@@ -113,6 +116,5 @@
         "done": "`⏭` | **La chanson a été :** `Ignorée`\n"
     }
 }
-
 
 

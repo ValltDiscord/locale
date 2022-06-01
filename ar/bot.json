@@ -2,8 +2,8 @@
     "bannerURL": "رابط البنر",
     "avatarURL": "رابط الصورة",
     "iconURL": "رابط الايقونة",
-    "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time",
-    "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+    "sumbit": "شكرا لك ، سوف نتواصل معك في أسرع وقت",
+    "discommands": "الأوامر معطلة في هذه الغرفة ، اتصل بالمسؤولين لمعرفة السبب",
     "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
     "asciiMaxCaracters": "{0} من الأحرف كحد أقصى!",
     "name": "الاسم",
@@ -13,11 +13,11 @@
     "channels": "الرومات",
     "creationDate": "تاريخ الإنشاء",
     "botInfosLanguages": "اللغات المدعومة",
-    "InviteBOTDescription": "Do you want to test my luxury commands? , Invite me to your server",
+    "InviteBOTDescription": "Do you want to test my luxury commands? , Invite me to your server\n",
     "userInfoDay": "يوم",
     "userInfoDays": " ايام",
-    "linkemojireply": "Please insert your chosen emojis!",
-    "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+    "linkemojireply": "الرجاء إدخال الرموز التعبيرية التي اخترتها!",
+    "setdisabledcommands": "Please mention wanted channel to disable commands in it\n",
     "disabledcommands": "تم تعطيل الأوامر بنجاح في {0}",
     "enablecommands": "نجح تمكين الأوامر في {0}",
     "helpCommandUsage": "الاستخدام:",
@@ -25,10 +25,10 @@
     "helpCommandAliases": "الاختصارات:",
     "helpCommandPermissions": "الصلاحيات المطلوبة:",
     "helpPrefix": "البرفيكس :",
-    "vote": "Vote for our bot to encourage us to continue",
+    "vote": "صوّت لروبوتنا لتشجيعنا على الاستمرار",
     "pingLatencyBot": "سرعة استجابة الخادم:",
     "pingLatencyAPI": "سرعة استجابة الخادم:",
-    "configPrefixLengthMax": "Maximum prefix characters is `2` characters ",
+    "configPrefixLengthMax": "الحد الأقصى لعدد أحرف البادئة هو \"2\" حرفًا",
     "configPrefixOld": "البادئة القديمة :",
     "configPrefixNew": "البادئة الجديدة:",
     "configPrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
@@ -69,9 +69,12 @@
         "createdAt": "أنشئت في",
         "ram": "الرامات "
     },
+    "welcome": {
+        "setchannel": "تم تعيين قناة الترحيب على {0}"
+    },
     "form": {
-        "accept": "Accept",
-        "deny": "Deny",
+        "accept": "قبول",
+        "deny": "رفض\n",
         "open": "تكت فبول الاداره"
     },
     "tickets": {
@@ -113,6 +116,5 @@
         "done": "`⏭` | ** الأغنية : ** تم تخطيها"
     }
 }
-
 
 

@@ -69,6 +69,9 @@
         "createdAt": "Создано на",
         "ram": "Баран"
     },
+    "welcome": {
+        "setchannel": "Welcome channel has been set to {0}"
+    },
     "form": {
         "accept": "Accept",
         "deny": "Deny",
@@ -113,6 +116,5 @@
         "done": "`⏭` | **Песня была:** `Skipped`"
     }
 }
-
 
 
