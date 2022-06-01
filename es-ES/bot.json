@@ -51,6 +51,7 @@
     "errorMessage": "Ocurrió un error:",
     "errorUserNotFound": "¡No pude encontrar a este usuario!",
     "errorChannelNotFound": "¡No pude encontrar este canal!",
+    "errorRoleNotFound": "I couldn't find this role !",
     "errorHarmYourself1": "no puedes",
     "errorHarmYourself2": "tú mismo !",
     "noBannerUser": "*{0}** no tiene banner",
@@ -116,5 +117,3 @@
         "done": "`⏭` | **La canción ha sido:** `Omitida`"
     }
 }
-
-
