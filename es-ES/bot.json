@@ -2,8 +2,8 @@
     "bannerURL": "URL de la pancarta",
     "avatarURL": "URL del avatar",
     "iconURL": "URL del icono",
-    "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time",
-    "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+    "sumbit": "Gracias por su sumbit, nos pondremos en contacto con usted en el tiempo más rápido",
+    "discommands": "Los comandos están deshabilitados en esta sala, comuníquese con los administradores para saber el motivo",
     "blacklistBanWarning": "Está en la lista negra, contáctenos para apelar la lista negra.",
     "asciiMaxCaracters": "¡{0} caracteres como máximo!",
     "name": "Nombre",
@@ -13,11 +13,11 @@
     "channels": "Canales",
     "creationDate": "Fecha de creación",
     "botInfosLanguages": "Idiomas admitidos",
-    "InviteBOTDescription": "Do you want to test my luxury commands? , Invite me to your server",
+    "InviteBOTDescription": "¿Quieres probar mis comandos de lujo? , invitame a tu servidor",
     "userInfoDay": "día",
     "userInfoDays": "dias",
-    "linkemojireply": "Please insert your chosen emojis!",
-    "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+    "linkemojireply": "¡Por favor inserta tus emojis elegidos!",
+    "setdisabledcommands": "Mencione el canal deseado para deshabilitar los comandos en él\n",
     "disabledcommands": "Comandos deshabilitados con éxito en {0}",
     "enablecommands": "Habilite correctamente los comandos en {0}",
     "helpCommandUsage": "uso :",
@@ -25,10 +25,10 @@
     "helpCommandAliases": "Alias:",
     "helpCommandPermissions": "permisos:",
     "helpPrefix": "Prefijo:",
-    "vote": "Vote for our bot to encourage us to continue",
+    "vote": "Vota por nuestro bot para animarnos a continuar",
     "pingLatencyBot": "Latencia del bot:",
     "pingLatencyAPI": "Latencia de la API:",
-    "configPrefixLengthMax": "Maximum prefix characters is `2` characters ",
+    "configPrefixLengthMax": "El máximo de caracteres de prefijo es `2` caracteres",
     "configPrefixOld": "Prefijo antiguo:",
     "configPrefixNew": "Nuevo prefijo:",
     "configPrefixNotString": "¡El prefijo contiene solo letras o símbolos!",
@@ -51,7 +51,7 @@
     "errorMessage": "Ocurrió un error:",
     "errorUserNotFound": "¡No pude encontrar a este usuario!",
     "errorChannelNotFound": "¡No pude encontrar este canal!",
-    "errorRoleNotFound": "I couldn't find this role !",
+    "errorRoleNotFound": "¡No pude encontrar este papel!",
     "errorHarmYourself1": "no puedes",
     "errorHarmYourself2": "tú mismo !",
     "noBannerUser": "*{0}** no tiene banner",
@@ -71,12 +71,12 @@
         "ram": "RAM"
     },
     "welcome": {
-        "setchannel": "Welcome channel has been set to {0}"
+        "setchannel": "El canal de bienvenida se ha establecido en {0}"
     },
     "form": {
-        "accept": "Accept",
-        "deny": "Deny",
-        "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
+        "accept": "Aceptar",
+        "deny": "Negar",
+        "open": "Espere a la alta gerencia, ha sido aceptado y se ha abierto un boleto para conocerlo."
     },
     "tickets": {
         "open": "El soporte estará contigo en breve.\nPara cerrar este ticket haz clic en el botón 🔒",
