@@ -51,7 +51,7 @@
     "errorMessage": "An error happened :",
     "errorUserNotFound": "I couldn't find this user !",
     "errorChannelNotFound": "I couldn't find this channel !",
-    "errorRoleNotFound": "I couldn't find this role !",
+    "errorRoleNotFound": "I Can't Found This Role",
     "errorHarmYourself1": "You can't ",
     "errorHarmYourself2": " yourself !",
     "noBannerUser": "**{0}** does not have a banner",
@@ -76,7 +76,7 @@
     "form": {
         "accept": "Accept",
         "deny": "Deny",
-        "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
+        "open": "Done Accepted Your Ticket, Please Wait Senior Management"
     },
     "tickets": {
         "open": "Support will be with you shortly.\nTo close this ticket click on button 🔒",
@@ -87,9 +87,9 @@
         "sure": "Are you sure you would like to close this ticket ?",
         "delete": "Ticket will be deleted in a few seconds",
         "created": "Ticket created ",
-        "closed": "Ticket Closed by ",
-        "onlysupport": ":x: Only support can delete this ticket",
-        "youneed": ":x: You need to setup tickets first by use"
+        "closed": "Ticket Closed By",
+        "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
+        "youneed": ":x: Need Ticket Setup First "
     },
     "music": {
         "song": "Please provide a song name or link.",
