@@ -51,7 +51,7 @@
     "errorMessage": "Une erreur s'est produite :",
     "errorUserNotFound": "Je peux pas trouvé cet utilisateur !",
     "errorChannelNotFound": "Je peux pas trouvé cette chaîne !",
-    "errorRoleNotFound": "I couldn't find this role !",
+    "errorRoleNotFound": "Je n'ai pas trouvé ce rôle !",
     "errorHarmYourself1": "Vous ne pouvez pas ",
     "errorHarmYourself2": "Vous-même !",
     "noBannerUser": "**{0}** n'a pas de bannière",
@@ -71,12 +71,12 @@
         "ram": "RAM"
     },
     "welcome": {
-        "setchannel": "Welcome channel has been set to {0}"
+        "setchannel": "Le canal de bienvenue a été défini sur {0}"
     },
     "form": {
         "accept": "Accepte",
         "deny": "Refusé",
-        "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
+        "open": "Veuillez attendre la haute direction, vous avez été accepté et un ticket a été ouvert pour vous rencontrer"
     },
     "tickets": {
         "open": "Le support sera avec vous dès que possible.\nPour fermer ce ticket cliquez sur le bouton 🔒",
