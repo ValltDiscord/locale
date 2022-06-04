@@ -92,13 +92,13 @@
         "youneed": ":x: Need Ticket Setup First "
     },
     "music": {
-        "song": "Please provide a song name or link.",
-        "joinvoice": "You need to be in a same/voice channel.",
-        "noqueue": "There is nothing in the queue right now!",
-        "searching": "Searching.....",
-        "processing": "Processing.....",
-        "loop": "`🔁` | **Song is loop:** Current",
-        "unloop": "`🔁` | **Song is unloop:** Current",
+        "song": "`🙄` Provide a Song Name Or Link",
+        "joinvoice": "Please Join a Same Voice Channel First",
+        "noqueue": "Not Available Queue Right Now!",
+        "searching": "Searching ..",
+        "processing": "Processing ..",
+        "loop": "`🔁` | **Loop is Enable is Song**",
+        "unloop": "`🔁` | **Loop is Disable**",
         "youtube": {
             "uploader": "Uploader:",
             "requester": "Requester:",
@@ -109,11 +109,11 @@
     },
     "volume": {
         "vol": "`Current` **volume** : **{0}%**",
-        "enternumber": "Please enter a valid number",
-        "only100": "Please provide a number between 1 and 100"
+        "enternumber": "Please Provide Number in 1 to 100",
+        "only100": "You Can Select Volume Starting in 1 To 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **There are no** `Songs` **in queue**",
-        "done": "`⏭` | **Song has been:** `Skipped`"
+        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
+        "done": "`⏭` | **Done Skipped a `Song`**"
     }
 }
