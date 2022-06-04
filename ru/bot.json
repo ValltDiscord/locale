@@ -2,8 +2,8 @@
     "bannerURL": "URL баннера",
     "avatarURL": "URL аватара",
     "iconURL": "URL-адрес значка",
-    "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time",
-    "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+    "sumbit": "Спасибо за ваш отзыв, мы свяжемся с вами в кратчайшие сроки",
+    "discommands": "Команды отключены в этой комнате, свяжитесь с администраторами, чтобы узнать причину",
     "blacklistBanWarning": "команда здесь отключена. Для выяснения причин возникновения с администраторами.",
     "asciiMaxCaracters": "Максимум {0} символов!",
     "name": "Имя",
@@ -13,11 +13,11 @@
     "channels": "каналы",
     "creationDate": "Дата создания",
     "botInfosLanguages": "Поддерживаемые языки",
-    "InviteBOTDescription": "Do you want to test my luxury commands? , Invite me to your server",
+    "InviteBOTDescription": "Хотите проверить мои роскошные команды? , Пригласи меня на свой сервер",
     "userInfoDay": "день",
     "userInfoDays": "дни",
-    "linkemojireply": "Please insert your chosen emojis!",
-    "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+    "linkemojireply": "Пожалуйста, вставьте выбранные смайлики!",
+    "setdisabledcommands": "Пожалуйста, укажите желаемый канал, чтобы отключить в нем команды",
     "disabledcommands": "Успешно отключены команды в {0}",
     "enablecommands": "Успешно включить команды в {0}",
     "helpCommandUsage": "Использование :",
@@ -25,10 +25,10 @@
     "helpCommandAliases": "Псевдонимы :",
     "helpCommandPermissions": "Разрешения:",
     "helpPrefix": "Префикс:",
-    "vote": "Vote for our bot to encourage us to continue",
+    "vote": "Проголосуйте за нашего бота, чтобы побудить нас продолжить",
     "pingLatencyBot": "Задержка бота:",
     "pingLatencyAPI": "Задержка API:",
-    "configPrefixLengthMax": "Maximum prefix characters is `2` characters ",
+    "configPrefixLengthMax": "Максимальное количество символов префикса `2` символа.",
     "configPrefixOld": "Старый префикс:",
     "configPrefixNew": "Новый префикс:",
     "configPrefixNotString": "Префикс содержит только буквы или символы !",
@@ -51,7 +51,7 @@
     "errorMessage": "Произошла ошибка:",
     "errorUserNotFound": "Я не смог найти этого пользователя!",
     "errorChannelNotFound": "Я не смог найти этот канал!",
-    "errorRoleNotFound": "I couldn't find this role !",
+    "errorRoleNotFound": "Я не мог найти эту роль!",
     "errorHarmYourself1": "Вы не можете",
     "errorHarmYourself2": "самим собой !",
     "noBannerUser": "**{0}** не имеет баннера",
@@ -71,11 +71,11 @@
         "ram": "Баран"
     },
     "welcome": {
-        "setchannel": "Welcome channel has been set to {0}"
+        "setchannel": "Канал приветствия настроен на {0}"
     },
     "form": {
-        "accept": "Accept",
-        "deny": "Deny",
+        "accept": "Принимать",
+        "deny": "Отрицать",
         "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
     },
     "tickets": {
