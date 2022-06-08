@@ -86,34 +86,34 @@
         "wait": "Bilet Oluşturuluyor, Lütfen Bekleyiniz...",
         "sure": "Bu bileti kapatmak istediğinizden emin misiniz?",
         "delete": "Bilet birkaç saniye içinde silinecek",
-        "created": "Ticket created ",
-        "closed": "Ticket Closed by ",
-        "onlysupport": ":x: Only support can delete this ticket",
-        "youneed": ":x: You need to setup tickets first by use"
+        "created": "Bilet oluşturuldu",
+        "closed": "Bilet Kapanan kişi",
+        "onlysupport": ":x: Bu bileti yalnızca destek ekibi silebilir",
+        "youneed": ":x: Önce biletleri kullanarak ayarlamanız gerekir"
     },
     "music": {
-        "song": "Please provide a song name or link.",
-        "joinvoice": "You need to be in a same/voice channel.",
-        "noqueue": "There is nothing in the queue right now!",
-        "searching": "Searching.....",
-        "processing": "Processing.....",
-        "loop": "`🔁` | **Song is loop:** Current",
-        "unloop": "`🔁` | **Song is unloop:** Current",
+        "song": "Lütfen bir şarkı adı veya bağlantı sağlayın.",
+        "joinvoice": "Aynı/ses kanalında olmanız gerekir.",
+        "noqueue": "Şu anda sırada hiçbir şey yok!",
+        "searching": "Aranıyor.....",
+        "processing": "İşleme.....",
+        "loop": "`🔁` | **Şarkı döngüdür:** Güncel",
+        "unloop": "`🔁` | **Song is unloop:** Current\n",
         "youtube": {
-            "uploader": "Uploader:",
-            "requester": "Requester:",
-            "volume": "Volume:",
-            "views": "Views:",
-            "likes": "Likes:"
+            "uploader": "Yükleyici:",
+            "requester": "talep eden:",
+            "volume": "Ses:",
+            "views": "Görüntüleme:",
+            "likes": "Seviyor:"
         }
     },
     "volume": {
-        "vol": "`Current` **volume** : **{0}%**",
-        "enternumber": "Please enter a valid number",
-        "only100": "Please provide a number between 1 and 100"
+        "vol": "`Mevcut` **hacim** : **%{0}**",
+        "enternumber": "Lütfen geçerli bir numara girin",
+        "only100": "Lütfen 1 ile 100 arasında bir sayı girin"
     },
     "skip": {
-        "noqueue": "`🚨` | **There are no** `Songs` **in queue**",
-        "done": "`⏭` | **Song has been:** `Skipped`"
+        "noqueue": "`🚨` | **Sırada** 'Şarkı' yok**",
+        "done": "`⏭` | **Şarkı oldu:** `Atlandı`"
     }
 }
