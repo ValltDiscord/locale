@@ -1,23 +1,23 @@
 {
-    "bannerURL": "URL de la bannière\n",
+    "bannerURL": "Lien de la bannière",
     "avatarURL": "Lien d’image",
-    "iconURL": "URL de l'icône",
+    "iconURL": "Lien de l'icône",
     "sumbit": "Merci pour votre enregistrement  ,en vas vous contactez dans le plus possible",
     "discommands": "Cette commande est désactivée dans ce salon , s'il vous plaît contact l'administration pour savoir la raison ",
-    "blacklistBanWarning": "Vous êtes sur liste noire, contactez-nous pour savoir raison du Blacklist.",
+    "blacklistBanWarning": "Vous êtes sur liste noire, contactez-nous pour savoir la raison du Blackliste.",
     "asciiMaxCaracters": "{0} caractères maximum !",
     "name": "Nom",
     "nickname": "Surnom",
-    "servers": "Serveurs",
-    "members": "Membres",
-    "channels": "Canaux",
+    "servers": "Les serveurs",
+    "members": "Les Membres",
+    "channels": "Les salon",
     "creationDate": "Date de Création",
     "botInfosLanguages": "Langues prises en charge",
     "InviteBOTDescription": "Tu veux tester ma meilleure commande ? , allons-y invite-moi dans ton serveur",
-    "userInfoDay": "jour",
+    "userInfoDay": " jour",
     "userInfoDays": "jours",
     "linkemojireply": "S'il vous plaît choisissez vos émojis !",
-    "setdisabledcommands": "S'il vous plaît choisissez un salon que vous voulez désactiver la commande dedans",
+    "setdisabledcommands": "Veuillez mentionner le salon sur lequel vous souhaitez désactiver les commandes",
     "disabledcommands": "Commandes désactivées avec succès dans {0}",
     "enablecommands": "Activer avec succès les commandes dans {0}",
     "helpCommandUsage": "Utilisation :\n",
@@ -29,7 +29,7 @@
     "pingLatencyBot": "Latence Bot :",
     "pingLatencyAPI": "Latence API :",
     "configPrefixLengthMax": "Le maximum préfixe caractères est `2` caractères ",
-    "configPrefixOld": "Ancien préfixe :",
+    "configPrefixOld": "L'ancien préfixe :",
     "configPrefixNew": "Nouveau préfixe :",
     "configPrefixNotString": "Le préfixe ne contient que des lettres ou des symboles !",
     "configLangReply": "Les langues prises en charge sont l'arabe, le turc et l'anglais, aidez-nous à prendre en charge la vôtre sur https://crowdin.com/project/valltdiscord",
@@ -51,7 +51,7 @@
     "errorMessage": "Une erreur s'est produite :",
     "errorUserNotFound": "Je peux pas trouvé cet utilisateur !",
     "errorChannelNotFound": "Je peux pas trouvé cette chaîne !",
-    "errorRoleNotFound": "I couldn't find this role !",
+    "errorRoleNotFound": "Je n'ai pas trouvé ce rôle !",
     "errorHarmYourself1": "Vous ne pouvez pas ",
     "errorHarmYourself2": "Vous-même !",
     "noBannerUser": "**{0}** n'a pas de bannière",
@@ -71,12 +71,12 @@
         "ram": "RAM"
     },
     "welcome": {
-        "setchannel": "Welcome channel has been set to {0}"
+        "setchannel": "Le canal de bienvenue a été défini sur {0}"
     },
     "form": {
         "accept": "Accepte",
         "deny": "Refusé",
-        "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
+        "open": "Veuillez attendre la haute direction, vous avez été accepté et un ticket a été ouvert pour vous rencontrer"
     },
     "tickets": {
         "open": "Le support sera avec vous dès que possible.\nPour fermer ce ticket cliquez sur le bouton 🔒",

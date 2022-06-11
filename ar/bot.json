@@ -51,7 +51,7 @@
     "errorMessage": "حدث خطأ:",
     "errorUserNotFound": "لم أتمكن من العثور على هذا المستخدم!",
     "errorChannelNotFound": "لم أتمكن من العثور على الروم!",
-    "errorRoleNotFound": "I couldn't find this role !",
+    "errorRoleNotFound": "لم أتمكن من العثور على هذه الرتبة!",
     "errorHarmYourself1": "لا يمكنك",
     "errorHarmYourself2": " نفسك !",
     "noBannerUser": "**{0}** ليس لديه بنر",
@@ -76,7 +76,7 @@
     "form": {
         "accept": "قبول",
         "deny": "رفض\n",
-        "open": "Please wait for senior management, you have been accepted and a ticket has been opened to meet you"
+        "open": "يرجى انتظار الإدارة العليا ، لقد تم قبولك وتم فتح تذكرة لمقابلتك"
     },
     "tickets": {
         "open": "الدعم سيكون معك قريبا\nلإغلاق هذه التذكرة اضغط على زر 🔒",
