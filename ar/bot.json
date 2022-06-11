@@ -87,7 +87,7 @@
         "sure": "هل أنت متأكد أنك تريد إغلاق هذه التذكرة؟",
         "delete": "سيتم حذف التذكرة بعد بضع ثواني .",
         "created": "تم إنشاء التذكرة",
-        "closed": "Ticket Closed By",
+        "closed": "تم إغلاق التذكرة من قِبَل",
         "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
         "youneed": ":x: Need Ticket Setup First "
     },
