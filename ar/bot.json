@@ -51,7 +51,7 @@
     "errorMessage": "حدث خطأ:",
     "errorUserNotFound": "لم أتمكن من العثور على هذا المستخدم!",
     "errorChannelNotFound": "لم أتمكن من العثور على الروم!",
-    "errorRoleNotFound": "لم أتمكن من العثور على هذه الرتبة!",
+    "errorRoleNotFound": "I Can't Found This Role",
     "errorHarmYourself1": "لا يمكنك",
     "errorHarmYourself2": " نفسك !",
     "noBannerUser": "**{0}** ليس لديه بنر",
@@ -76,7 +76,7 @@
     "form": {
         "accept": "قبول",
         "deny": "رفض\n",
-        "open": "يرجى انتظار الإدارة العليا ، لقد تم قبولك وتم فتح تذكرة لمقابلتك"
+        "open": "Done Accepted Your Ticket, Please Wait Senior Management"
     },
     "tickets": {
         "open": "الدعم سيكون معك قريبا\nلإغلاق هذه التذكرة اضغط على زر 🔒",
@@ -87,18 +87,18 @@
         "sure": "هل أنت متأكد أنك تريد إغلاق هذه التذكرة؟",
         "delete": "سيتم حذف التذكرة بعد بضع ثواني .",
         "created": "تم إنشاء التذكرة",
-        "closed": "تم اغلاق التذكرة من قبل",
-        "onlysupport": ":x: يمكن فقط للدعم حذف هذه التذكرة",
-        "youneed": ":x:  تحتاج إلى إعداد التذاكر أولاً عن طريق استخدام :"
+        "closed": "Ticket Closed By",
+        "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
+        "youneed": ":x: Need Ticket Setup First "
     },
     "music": {
-        "song": "يرجى تقديم اسم الأغنية أو الرابط.",
-        "joinvoice": "يجب أن تكون في نفس القناة صوتية.",
-        "noqueue": "لا يوجد شيء في قائمة الانتظار الآن!",
-        "searching": "يبحث.....",
-        "processing": "يعالج.....",
-        "loop": "`🔁` | **تم وضع التكرار: ** حاليا",
-        "unloop": "`🔁` | **تمت إزالة وضع التكرار: ** حاليا",
+        "song": "`🙄` Provide a Song Name Or Link",
+        "joinvoice": "Please Join a Same Voice Channel First",
+        "noqueue": "Not Available Queue Right Now!",
+        "searching": "Searching ..",
+        "processing": "Processing ..",
+        "loop": "`🔁` | **Loop is Enable is Song**",
+        "unloop": "`🔁` | **Loop is Disable**",
         "youtube": {
             "uploader": "رافع:",
             "requester": "مقدم الطلب:",
@@ -109,11 +109,11 @@
     },
     "volume": {
         "vol": "`الحالي` ** مستوى الصوت**: ** {0}٪ **",
-        "enternumber": "من فضلك أدخل رقما صالحا\n",
-        "only100": "يرجى تقديم رقم بين 1 و 100"
+        "enternumber": "Please Provide Number in 1 to 100",
+        "only100": "You Can Select Volume Starting in 1 To 100"
     },
     "skip": {
-        "noqueue": "`🚨` | ** لا يوجد ** `أغاني` ** في قائمة الانتظار **",
-        "done": "`⏭` | ** الأغنية : ** تم تخطيها"
+        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
+        "done": "`⏭` | **Done Skipped a `Song`**"
     }
 }
