@@ -76,7 +76,7 @@
     "form": {
         "accept": "قبول",
         "deny": "رفض\n",
-        "open": "Done Accepted Your Ticket, Please Wait Senior Management"
+        "open": "تم قبول تذكرتك ، يرجى انتظار الإدارة العليا"
     },
     "tickets": {
         "open": "الدعم سيكون معك قريبا\nلإغلاق هذه التذكرة اضغط على زر 🔒",
@@ -88,17 +88,17 @@
         "delete": "سيتم حذف التذكرة بعد بضع ثواني .",
         "created": "تم إنشاء التذكرة",
         "closed": "تم إغلاق التذكرة من قِبَل",
-        "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
-        "youneed": ":x: Need Ticket Setup First "
+        "onlysupport": ": x لا يمكنك حذف هذه التذكرة إلا لأعضاء فريق العمل",
+        "youneed": ": x: تحتاج إلى إعداد التذكرة أولاً"
     },
     "music": {
-        "song": "`🙄` Provide a Song Name Or Link",
-        "joinvoice": "Please Join a Same Voice Channel First",
-        "noqueue": "Not Available Queue Right Now!",
+        "song": "`🙄` أدخل اسم الأغنية أو الرابط",
+        "joinvoice": "يرجى الانضمام إلى نفس القناة الصوتية أولاً",
+        "noqueue": "قائمة الانتظار غير متوفرة الآن!",
         "searching": "جارٍ البحث …",
-        "processing": "Processing ..",
-        "loop": "`🔁` | **Loop is Enable is Song**",
-        "unloop": "`🔁` | **Loop is Disable**",
+        "processing": "يعالج ..",
+        "loop": "`🔁` | ** التكرار هو التمكين هو الأغنية **",
+        "unloop": "`🔁` | ** الحلقة معطلة **",
         "youtube": {
             "uploader": "رافع:",
             "requester": "مقدم الطلب:",
@@ -109,11 +109,11 @@
     },
     "volume": {
         "vol": "`الحالي` ** مستوى الصوت**: ** {0}٪ **",
-        "enternumber": "Please Provide Number in 1 to 100",
-        "only100": "You Can Select Volume Starting in 1 To 100"
+        "enternumber": "يرجى تقديم رقم من 1 إلى 100",
+        "only100": "يرجى تقديم رقم من 1 إلى 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
-        "done": "`⏭` | **Done Skipped a `Song`**"
+        "noqueue": "`🚨` | ** لا يمكنني العثور على `الأغاني` في قائمة الانتظار **",
+        "done": "`⏭` | ** تم تخطي `أغنية` **"
     }
 }
