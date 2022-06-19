@@ -51,7 +51,7 @@
     "errorMessage": "Произошла ошибка:",
     "errorUserNotFound": "Я не смог найти этого пользователя!",
     "errorChannelNotFound": "Я не смог найти этот канал!",
-    "errorRoleNotFound": "I Can't Found This Role",
+    "errorRoleNotFound": "Я не могу найти эту роль",
     "errorHarmYourself1": "Вы не можете",
     "errorHarmYourself2": "самим собой !",
     "noBannerUser": "**{0}** не имеет баннера",
@@ -76,7 +76,7 @@
     "form": {
         "accept": "Принимать",
         "deny": "Отрицать",
-        "open": "Done Accepted Your Ticket, Please Wait Senior Management"
+        "open": "Готово, ваш билет принят, пожалуйста, подождите, высшее руководство"
     },
     "tickets": {
         "open": "Поддержка будет с вами в ближайшее время.\nЧтобы закрыть этот тикет, нажмите на кнопку 🔒",
@@ -87,18 +87,18 @@
         "sure": "Вы уверены, что хотите закрыть этот тикет?",
         "delete": "Тикет будет удален через несколько секунд",
         "created": "Билет создан",
-        "closed": "Ticket Closed By",
-        "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
-        "youneed": ":x: Need Ticket Setup First "
+        "closed": "Ticket Closed By\n",
+        "onlysupport": ":x Вы не можете удалить эту заявку Только сотрудники",
+        "youneed": ":x: Need Ticket Setup First \n"
     },
     "music": {
-        "song": "`🙄` Provide a Song Name Or Link",
-        "joinvoice": "Please Join a Same Voice Channel First",
-        "noqueue": "Not Available Queue Right Now!",
-        "searching": "Searching ..",
-        "processing": "Processing ..",
-        "loop": "`🔁` | **Loop is Enable is Song**",
-        "unloop": "`🔁` | **Loop is Disable**",
+        "song": "`🙄` Provide a Song Name Or Link\n",
+        "joinvoice": "Сначала присоединитесь к тому же голосовому каналу",
+        "noqueue": "Недоступная очередь прямо сейчас!",
+        "searching": "Идет поиск ..",
+        "processing": "Обработка ..",
+        "loop": "`🔁` | **Петля включена в песне**",
+        "unloop": "`🔁` | **Цикл отключен**",
         "youtube": {
             "uploader": "Загрузчик:",
             "requester": "Заявитель:",
@@ -109,11 +109,11 @@
     },
     "volume": {
         "vol": "`Текущий` **том**: **{0}%**",
-        "enternumber": "Please Provide Number in 1 to 100",
-        "only100": "You Can Select Volume Starting in 1 To 100"
+        "enternumber": "Пожалуйста, укажите число от 1 до 100",
+        "only100": "Пожалуйста, укажите число от 1 до 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
-        "done": "`⏭` | **Done Skipped a `Song`**"
+        "noqueue": "`🚨` | **Я не могу найти песни в очереди**",
+        "done": "`⏭` | **Готово Пропущена песня**"
     }
 }
