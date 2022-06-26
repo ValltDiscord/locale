@@ -1,5 +1,5 @@
 {
-    "InviteBOTDescription": "Lüks komutlarımı test etmek ister misin? , Beni sunucunuza davet edin",
+    "InviteBOTDescription": "Do you want to test my commands?, Invite me to your server now!",
     "ping": {
         "LatencyBot": "Bot latency :",
         "LatencyAPI": "API latency :"
@@ -7,7 +7,7 @@
     "user": {
         "bannerURL": "Banner URL",
         "avatarURL": "Avatar URL",
-        "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
+        "blacklistBanWarning": "You are blacklisted, if you think you got blacklisted for no reason contact @Anas#4254",
         "vote": "Vote for our bot to encourage us to continue"
     },
     "guild": {
@@ -16,46 +16,46 @@
     "config": {
         "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
         "PrefixNew": "New prefix :",
-        "PrefixNotString": "The prefix contains only letters or symbols !",
-        "LangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
-        "LangTooLong": "Languages are only 2 characters long !",
+        "PrefixNotString": "The prefix should only contain letters or symbols!",
+        "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Languages are only 2 characters long! ",
         "LangNew": "New language :",
-        "LangUnknown": "This language is not available!",
-        "LangNotString": "Languages only contain letters !",
+        "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
+        "LangNotString": "Languages should only contain letters!",
         "LangbotInfos": "Supported Languages"
     },
     "help": {
         "helpCommandUsage": "Usage :",
-        "helpCommandExample": "Examples:",
+        "helpCommandExample": "Examples :",
         "helpCommandAliases": "Aliases :",
         "helpCommandPermissions": "Permissions :",
-        "helpPrefix": "Prefix:"
+        "helpPrefix": "Prefix :"
     },
     "economy": {
         "profile": {},
         "like": {
             "bots": "You can't like bots.",
-            "timeout": "**{0}**,(Ratelimited)\n**You'll be able give reputation point again in {1} hours, {2} minutes and {3} seconds**",
-            "user": "**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
+            "timeout": "**{0}**,(Rate limited)\n**You will be able to give reputation point again in {1} hours, {2} minutes and {3} seconds**",
+            "user": "**{0}**, You can rep someone now,\nmention the user you want to like!",
             "done": "**🎖️ | Hey {0},{1} liked your profile**"
         }
     },
     "errors": {
-        "Message": "An error happened :",
-        "UserNotFound": "I couldn't find this user !",
-        "ChannelNotFound": "I couldn't find this channel !",
-        "RoleNotFound": "I Can't Found This Role",
-        "HarmYourself1": "You can't ",
-        "HarmYourself2": " yourself !",
+        "Message": "An error occurred :",
+        "UserNotFound": "I couldn't find that user!",
+        "ChannelNotFound": "I couldn't find that channel!",
+        "RoleNotFound": "I couldn't find that role!",
+        "HarmYourself1": "You can't",
+        "HarmYourself2": "yourself!",
         "noBannerUser": "**{0}** does not have a banner",
         "noBannerYou": "You don't have a banner",
         "noCommandAliases": "No aliases for this command.",
-        "botsNoBanner": "🧐 Bots don't have a banner!",
-        "onlyowner": ":x: Only ownership of this server can use this command",
+        "botsNoBanner": "🧐 Bots don't have banners!",
+        "onlyowner": ":x: Only the ownership of this server can use this command",
         "onlydevs": ":x: Only devs can use this command"
     },
     "emojis": {
-        "reply": "Please insert your chosen emojis!"
+        "reply": "Please provide the emojis!"
     },
     "botinfo": {
         "servers": "Sunucular",
@@ -69,12 +69,12 @@
         "accept": "Kabul",
         "deny": "Reddetmek",
         "open": "Done Accepted Your Ticket, Please Wait Senior Management",
-        "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time"
+        "sumbit": "Thank you for submitting the application, our team will contact with you asap."
     },
     "commands": {
-        "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
-        "setdisabledcommands": "Please mention wanted channel to disable commands in it",
-        "setenabledcommands": "Please mention wanted channel to enable commands in it",
+        "discommands": "Commands are disabled in this room.",
+        "setdisabledcommands": "Please mention the channel you want to disable command in.",
+        "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "Successfully disabled commands in {0} ",
         "enabledcommands": "Successfully enable commands in {0}",
         "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
