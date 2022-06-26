@@ -1,67 +1,62 @@
 {
-    "bannerURL": "URL de la pancarta",
-    "avatarURL": "URL del avatar",
-    "iconURL": "URL del icono",
-    "sumbit": "Gracias por su sumbit, nos pondremos en contacto con usted en el tiempo más rápido",
-    "discommands": "Los comandos están deshabilitados en esta sala, comuníquese con los administradores para saber el motivo",
-    "blacklistBanWarning": "Está en la lista negra, contáctenos para apelar la lista negra.",
-    "asciiMaxCaracters": "¡{0} caracteres como máximo!",
-    "name": "Nombre",
-    "nickname": "Apodo",
-    "servers": "Servidores",
-    "members": "miembros",
-    "channels": "Canales",
-    "creationDate": "Fecha de creación",
-    "botInfosLanguages": "Idiomas admitidos",
     "InviteBOTDescription": "¿Quieres probar mis comandos de lujo? , invitame a tu servidor",
-    "userInfoDay": "día",
-    "userInfoDays": "dias",
-    "linkemojireply": "¡Por favor inserta tus emojis elegidos!",
-    "setdisabledcommands": "Mencione el canal deseado para deshabilitar los comandos en él\n",
-    "disabledcommands": "Comandos deshabilitados con éxito en {0}",
-    "enablecommands": "Habilite correctamente los comandos en {0}",
-    "helpCommandUsage": "uso :",
-    "helpCommandExample": "Ejemplos:",
-    "helpCommandAliases": "Alias:",
-    "helpCommandPermissions": "permisos:",
-    "helpPrefix": "Prefijo:",
-    "vote": "Vota por nuestro bot para animarnos a continuar",
-    "pingLatencyBot": "Latencia del bot:",
-    "pingLatencyAPI": "Latencia de la API:",
-    "configPrefixLengthMax": "El máximo de caracteres de prefijo es `2` caracteres",
-    "configPrefixOld": "Prefijo antiguo:",
-    "configPrefixNew": "Nuevo prefijo:",
-    "configPrefixNotString": "¡El prefijo contiene solo letras o símbolos!",
-    "configLangReply": "Los idiomas admitidos son árabe, turco e inglés; ayúdenos a respaldar el suyo en https://crowdin.com/project/valltdiscord",
-    "configLangTooLong": "¡Los idiomas tienen solo 2 caracteres!",
-    "configLangOld": "Idioma antiguo:",
-    "configLangNew": "Nuevo idioma :",
-    "configLangUnknown": "¡Este idioma no está disponible!",
-    "configLangNotString": "¡Los idiomas solo contienen letras!",
-    "configLogChannelOld": "Canal de registro antiguo:",
-    "configLogChannelNew": "Nuevo canal de registro:",
-    "messageEventMissingPerm1": "no tienes el",
-    "messageEventMissingPerm2": "permiso para ejecutar este comando!",
-    "messageEventBotMissingPerm1": "no tengo el",
-    "messageEventBotMissingPerm2": "permiso para ejecutar este comando!",
-    "messageEventCommandNeedArg1": "Necesitas",
-    "messageEventCommandNeedArg2one": "argumento para este comando,",
-    "messageEventCommandNeedArg2multiple": "argumentos para este comando,",
-    "EcoBioNewBio": "Nuevo",
-    "errorMessage": "Ocurrió un error:",
-    "errorUserNotFound": "¡No pude encontrar a este usuario!",
-    "errorChannelNotFound": "¡No pude encontrar este canal!",
-    "errorRoleNotFound": "I Can't Found This Role",
-    "errorHarmYourself1": "no puedes",
-    "errorHarmYourself2": "tú mismo !",
-    "noBannerUser": "*{0}** no tiene banner",
-    "noBannerYou": "no tienes pancarta",
-    "noCommandAliases": "No hay alias para este comando.",
-    "botsNoBanner": "🧐 ¡Los bots no tienen banner!",
-    "onlyowner": ":x: Solo la propiedad de este servidor puede usar este comando",
-    "onlydevs": ": x: Solo los desarrolladores pueden usar este comando",
-    "donevolume": "`🔊` | **Cambiar volumen a:** **{0}%**",
-    "nofoundmusic": "¡No se ha encontrado ningún resultado para {0}!",
+    "ping": {
+        "LatencyBot": "Bot latency :",
+        "LatencyAPI": "API latency :"
+    },
+    "user": {
+        "bannerURL": "Banner URL",
+        "avatarURL": "Avatar URL",
+        "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
+        "vote": "Vote for our bot to encourage us to continue"
+    },
+    "guild": {
+        "iconURL": "Icon URL"
+    },
+    "config": {
+        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixNew": "New prefix :",
+        "PrefixNotString": "The prefix contains only letters or symbols !",
+        "LangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Languages are only 2 characters long !",
+        "LangNew": "New language :",
+        "LangUnknown": "This language is not available!",
+        "LangNotString": "Languages only contain letters !",
+        "LangbotInfos": "Supported Languages"
+    },
+    "help": {
+        "helpCommandUsage": "Usage :",
+        "helpCommandExample": "Examples:",
+        "helpCommandAliases": "Aliases :",
+        "helpCommandPermissions": "Permissions :",
+        "helpPrefix": "Prefix:"
+    },
+    "economy": {
+        "profile": {},
+        "like": {
+            "bots": "i cant like bots",
+            "timeout": "**{0}**,(Ratelimited)\n**You'll be able give reputation point again in {1} hours, {2} minutes and {3} seconds**",
+            "user": "**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
+            "done": "**🎖️ | Hey {0},{1} liked your the profile**"
+        }
+    },
+    "errors": {
+        "Message": "An error happened :",
+        "UserNotFound": "I couldn't find this user !",
+        "ChannelNotFound": "I couldn't find this channel !",
+        "RoleNotFound": "I Can't Found This Role",
+        "HarmYourself1": "You can't ",
+        "HarmYourself2": " yourself !",
+        "noBannerUser": "**{0}** does not have a banner",
+        "noBannerYou": "You don't have a banner",
+        "noCommandAliases": "No aliases for this command.",
+        "botsNoBanner": "🧐 Bots don't have a banner!",
+        "onlyowner": ":x: Only ownership of this server can use this command",
+        "onlydevs": ":x: Only devs can use this command"
+    },
+    "emojis": {
+        "reply": "Please insert your chosen emojis!"
+    },
     "botinfo": {
         "servers": "Servidores",
         "users": "Usuarios",
@@ -70,26 +65,20 @@
         "createdAt": "Creado en",
         "ram": "RAM"
     },
-    "welcome": {
-        "setchannel": "El canal de bienvenida se ha establecido en {0}"
-    },
     "form": {
         "accept": "Aceptar",
         "deny": "Negar",
-        "open": "Done Accepted Your Ticket, Please Wait Senior Management"
+        "open": "Done Accepted Your Ticket, Please Wait Senior Management",
+        "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time"
     },
-    "tickets": {
-        "open": "El soporte estará contigo en breve.\nPara cerrar este ticket haz clic en el botón 🔒",
-        "butclose": "Cerrar",
-        "butcancel": "Cancelar",
-        "butdelete": "Borrar",
-        "wait": "Creando ticket, por favor espere...",
-        "sure": "¿Está seguro de que desea cerrar este ticket?",
-        "delete": "El ticket se eliminará en unos segundos.",
-        "created": "Ticket creado",
-        "closed": "Ticket Closed By",
-        "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
-        "youneed": ":x: Need Ticket Setup First "
+    "commands": {
+        "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+        "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+        "setenabledcommands": "Please mention wanted channel to enable commands in it",
+        "disabledcommands": "Successfully disabled commands in {0} ",
+        "enabledcommands": "Successfully enable commands in {0}",
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
+        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!"
     },
     "music": {
         "song": "`🙄` Provide a Song Name Or Link",
@@ -107,6 +96,8 @@
             "likes": "Gustos:"
         }
     },
+    "donevolume": "`🔊` | **Cambiar volumen a:** **{0}%**",
+    "nofoundmusic": "¡No se ha encontrado ningún resultado para {0}!",
     "volume": {
         "vol": "`Actual` **volumen**: **{0}%**",
         "enternumber": "Proporcione el número del 1 al 100",
