@@ -1,67 +1,62 @@
 {
-    "bannerURL": "URL баннера",
-    "avatarURL": "URL аватара",
-    "iconURL": "URL-адрес значка",
-    "sumbit": "Спасибо за ваш отзыв, мы свяжемся с вами в кратчайшие сроки",
-    "discommands": "Команды отключены в этой комнате, свяжитесь с администраторами, чтобы узнать причину",
-    "blacklistBanWarning": "команда здесь отключена. Для выяснения причин возникновения с администраторами.",
-    "asciiMaxCaracters": "Максимум {0} символов!",
-    "name": "Имя",
-    "nickname": "Псевдоним",
-    "servers": "Серверы",
-    "members": "Члены",
-    "channels": "каналы",
-    "creationDate": "Дата создания",
-    "botInfosLanguages": "Поддерживаемые языки",
     "InviteBOTDescription": "Хотите проверить мои роскошные команды? , Пригласи меня на свой сервер",
-    "userInfoDay": "день",
-    "userInfoDays": "дни",
-    "linkemojireply": "Пожалуйста, вставьте выбранные смайлики!",
-    "setdisabledcommands": "Пожалуйста, укажите желаемый канал, чтобы отключить в нем команды",
-    "disabledcommands": "Успешно отключены команды в {0}",
-    "enablecommands": "Успешно включить команды в {0}",
-    "helpCommandUsage": "Использование :",
-    "helpCommandExample": "Примеры:",
-    "helpCommandAliases": "Псевдонимы :",
-    "helpCommandPermissions": "Разрешения:",
-    "helpPrefix": "Префикс:",
-    "vote": "Проголосуйте за нашего бота, чтобы побудить нас продолжить",
-    "pingLatencyBot": "Задержка бота:",
-    "pingLatencyAPI": "Задержка API:",
-    "configPrefixLengthMax": "Максимальное количество символов префикса `2` символа.",
-    "configPrefixOld": "Старый префикс:",
-    "configPrefixNew": "Новый префикс:",
-    "configPrefixNotString": "Префикс содержит только буквы или символы !",
-    "configLangReply": "Поддерживаемые языки: арабский, турецкий, английский, помогите нам поддержать ваш на https://crowdin.com/project/valltdiscord.",
-    "configLangTooLong": "Языки имеют длину всего 2 символа!",
-    "configLangOld": "Старый язык:",
-    "configLangNew": "Новый язык :",
-    "configLangUnknown": "Этот язык недоступен!",
-    "configLangNotString": "Языки состоят только из букв!",
-    "configLogChannelOld": "Старый лог-канал:",
-    "configLogChannelNew": "Новый канал журнала:",
-    "messageEventMissingPerm1": "У вас нет",
-    "messageEventMissingPerm2": "разрешение на выполнение этой команды!",
-    "messageEventBotMissingPerm1": "у меня нет",
-    "messageEventBotMissingPerm2": "разрешение на выполнение этой команды!",
-    "messageEventCommandNeedArg1": "Тебе нужно",
-    "messageEventCommandNeedArg2one": "аргумент для этой команды,",
-    "messageEventCommandNeedArg2multiple": "аргументы для этой команды,",
-    "EcoBioNewBio": "Новый",
-    "errorMessage": "Произошла ошибка:",
-    "errorUserNotFound": "Я не смог найти этого пользователя!",
-    "errorChannelNotFound": "Я не смог найти этот канал!",
-    "errorRoleNotFound": "Я не могу найти эту роль",
-    "errorHarmYourself1": "Вы не можете",
-    "errorHarmYourself2": "самим собой !",
-    "noBannerUser": "**{0}** не имеет баннера",
-    "noBannerYou": "У вас нет баннера",
-    "noCommandAliases": "Нет псевдонимов для этой команды.",
-    "botsNoBanner": "🧐 У ботов нет баннера!",
-    "onlyowner": ":x: Только владелец этого сервера может использовать эту команду",
-    "onlydevs": ":x: Только разработчики могут использовать эту команду",
-    "donevolume": "`🔊` | **Изменить громкость на:** **{0}%**",
-    "nofoundmusic": "Ничего не найдено для {0}!",
+    "ping": {
+        "LatencyBot": "Bot latency :",
+        "LatencyAPI": "API latency :"
+    },
+    "user": {
+        "bannerURL": "Banner URL",
+        "avatarURL": "Avatar URL",
+        "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
+        "vote": "Vote for our bot to encourage us to continue"
+    },
+    "guild": {
+        "iconURL": "Icon URL"
+    },
+    "config": {
+        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixNew": "New prefix :",
+        "PrefixNotString": "The prefix contains only letters or symbols !",
+        "LangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Languages are only 2 characters long !",
+        "LangNew": "New language :",
+        "LangUnknown": "This language is not available!",
+        "LangNotString": "Languages only contain letters !",
+        "LangbotInfos": "Supported Languages"
+    },
+    "help": {
+        "helpCommandUsage": "Usage :",
+        "helpCommandExample": "Examples:",
+        "helpCommandAliases": "Aliases :",
+        "helpCommandPermissions": "Permissions :",
+        "helpPrefix": "Prefix:"
+    },
+    "economy": {
+        "profile": {},
+        "like": {
+            "bots": "i cant like bots",
+            "timeout": "**{0}**,(Ratelimited)\n**You'll be able give reputation point again in {1} hours, {2} minutes and {3} seconds**",
+            "user": "**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
+            "done": "**🎖️ | Hey {0},{1} liked your the profile**"
+        }
+    },
+    "errors": {
+        "Message": "An error happened :",
+        "UserNotFound": "I couldn't find this user !",
+        "ChannelNotFound": "I couldn't find this channel !",
+        "RoleNotFound": "I Can't Found This Role",
+        "HarmYourself1": "You can't ",
+        "HarmYourself2": " yourself !",
+        "noBannerUser": "**{0}** does not have a banner",
+        "noBannerYou": "You don't have a banner",
+        "noCommandAliases": "No aliases for this command.",
+        "botsNoBanner": "🧐 Bots don't have a banner!",
+        "onlyowner": ":x: Only ownership of this server can use this command",
+        "onlydevs": ":x: Only devs can use this command"
+    },
+    "emojis": {
+        "reply": "Please insert your chosen emojis!"
+    },
     "botinfo": {
         "servers": "Серверы",
         "users": "Users",
@@ -70,26 +65,20 @@
         "createdAt": "Создано на",
         "ram": "Баран"
     },
-    "welcome": {
-        "setchannel": "Канал приветствия настроен на {0}"
-    },
     "form": {
         "accept": "Принимать",
         "deny": "Отрицать",
-        "open": "Готово, ваш билет принят, пожалуйста, подождите, высшее руководство"
+        "open": "Готово, ваш билет принят, пожалуйста, подождите, высшее руководство",
+        "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time"
     },
-    "tickets": {
-        "open": "Поддержка будет с вами в ближайшее время.\nЧтобы закрыть этот тикет, нажмите на кнопку 🔒",
-        "butclose": "Закрывать",
-        "butcancel": "Отмена",
-        "butdelete": "Удалить",
-        "wait": "Создание заявки, пожалуйста, подождите...",
-        "sure": "Вы уверены, что хотите закрыть этот тикет?",
-        "delete": "Тикет будет удален через несколько секунд",
-        "created": "Билет создан",
-        "closed": "Ticket Closed By\n",
-        "onlysupport": ":x Вы не можете удалить эту заявку Только сотрудники",
-        "youneed": ":x: Need Ticket Setup First \n"
+    "commands": {
+        "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+        "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+        "setenabledcommands": "Please mention wanted channel to enable commands in it",
+        "disabledcommands": "Successfully disabled commands in {0} ",
+        "enabledcommands": "Successfully enable commands in {0}",
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
+        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!"
     },
     "music": {
         "song": "`🙄` Provide a Song Name Or Link\n",
@@ -107,6 +96,8 @@
             "likes": "Нравится:"
         }
     },
+    "donevolume": "`🔊` | **Изменить громкость на:** **{0}%**",
+    "nofoundmusic": "Ничего не найдено для {0}!",
     "volume": {
         "vol": "`Текущий` **том**: **{0}%**",
         "enternumber": "Пожалуйста, укажите число от 1 до 100",
