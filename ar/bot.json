@@ -1,67 +1,62 @@
 {
-    "bannerURL": "رابط البنر",
-    "avatarURL": "رابط الصورة",
-    "iconURL": "رابط الايقونة",
-    "sumbit": "شكرا لك ، سوف نتواصل معك في أسرع وقت",
-    "discommands": "الأوامر معطلة في هذه الغرفة ، اتصل بالمسؤولين لمعرفة السبب",
-    "blacklistBanWarning": "تم حظرك من استخدام البوت ، تواصل معنا لمعرفة السبب.",
-    "asciiMaxCaracters": "{0} من الأحرف كحد أقصى!",
-    "name": "الاسم",
-    "nickname": "الاسم المستعار",
-    "servers": "السيرفرات",
-    "members": "الأعضاء",
-    "channels": "الرومات",
-    "creationDate": "تاريخ الإنشاء",
-    "botInfosLanguages": "اللغات المدعومة",
     "InviteBOTDescription": "Do you want to test my luxury commands? , Invite me to your server\n",
-    "userInfoDay": "يوم",
-    "userInfoDays": " ايام",
-    "linkemojireply": "الرجاء إدخال الرموز التعبيرية التي اخترتها!",
-    "setdisabledcommands": "Please mention wanted channel to disable commands in it\n",
-    "disabledcommands": "تم تعطيل الأوامر بنجاح في {0}",
-    "enablecommands": "نجح تمكين الأوامر في {0}",
-    "helpCommandUsage": "الاستخدام:",
-    "helpCommandExample": "أمثلة:",
-    "helpCommandAliases": "الاختصارات:",
-    "helpCommandPermissions": "الصلاحيات المطلوبة:",
-    "helpPrefix": "البرفيكس :",
-    "vote": "صوّت للبوت لتشجيعنا على الاستمرار",
-    "pingLatencyBot": "سرعة استجابة الخادم:",
-    "pingLatencyAPI": "سرعة استجابة الخادم:",
-    "configPrefixLengthMax": "الحد الأقصى لعدد أحرف البادئة هو \"2\" حرفًا",
-    "configPrefixOld": "البادئة القديمة :",
-    "configPrefixNew": "البادئة الجديدة:",
-    "configPrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
-    "configLangReply": "اللغات المدعومة هي العربية والتركية والإنجليزية ، ساعدنا في دعم لغتك على https://crowdin.com/project/valltdiscorddiscord",
-    "configLangTooLong": "اللغات تتكون من حرفين فقط!",
-    "configLangOld": "اللغة القديمة:",
-    "configLangNew": "اللغة الجديدة:",
-    "configLangUnknown": "هذه اللغة ليست مدعومة حتى الآن!",
-    "configLangNotString": "اللغات تحتوي فقط على حروف!",
-    "configLogChannelOld": "روم اللوق القديم :",
-    "configLogChannelNew": "روم اللوق الجديد :",
-    "messageEventMissingPerm1": "ليس لديك",
-    "messageEventMissingPerm2": "ليس لديك صلاحيات لتنفيذ هذا الأمر!",
-    "messageEventBotMissingPerm1": "ليس لدي",
-    "messageEventBotMissingPerm2": "ليس لديك صلاحيات لتنفيذ هذا الأمر!",
-    "messageEventCommandNeedArg1": "تحتاج",
-    "messageEventCommandNeedArg2one": " حجة لهذا الأمر، ",
-    "messageEventCommandNeedArg2multiple": " حجة لهذا الأمر، ",
-    "EcoBioNewBio": "جديد",
-    "errorMessage": "حدث خطأ:",
-    "errorUserNotFound": "لم أتمكن من العثور على هذا المستخدم!",
-    "errorChannelNotFound": "لم أتمكن من العثور على الروم!",
-    "errorRoleNotFound": "لم أتمكن من العثور على هذه الرتبة",
-    "errorHarmYourself1": "لا يمكنك",
-    "errorHarmYourself2": " نفسك !",
-    "noBannerUser": "**{0}** ليس لديه بنر",
-    "noBannerYou": "أنت ليس لديك بنر",
-    "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
-    "botsNoBanner": "🧐 البوتات ليس لديهم بنر!",
-    "onlyowner": ":x: فقط صاحب السيرفر يقدر يستخدم هذا الأمر",
-    "onlydevs": ":x : فقط المطورين يقدرو يستخدمو هذا الأمر",
-    "donevolume": "`🔊` | ** تم تغيير مستوى الصوت إلى: ** ** {0}٪ **",
-    "nofoundmusic": "لم يتم العثور على نتيجة لـ {0}!",
+    "ping": {
+        "LatencyBot": "Bot latency :",
+        "LatencyAPI": "API latency :"
+    },
+    "user": {
+        "bannerURL": "Banner URL",
+        "avatarURL": "Avatar URL",
+        "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
+        "vote": "Vote for our bot to encourage us to continue"
+    },
+    "guild": {
+        "iconURL": "Icon URL"
+    },
+    "config": {
+        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixNew": "New prefix :",
+        "PrefixNotString": "The prefix contains only letters or symbols !",
+        "LangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Languages are only 2 characters long !",
+        "LangNew": "New language :",
+        "LangUnknown": "This language is not available!",
+        "LangNotString": "Languages only contain letters !",
+        "LangbotInfos": "Supported Languages"
+    },
+    "help": {
+        "helpCommandUsage": "Usage :",
+        "helpCommandExample": "Examples:",
+        "helpCommandAliases": "Aliases :",
+        "helpCommandPermissions": "Permissions :",
+        "helpPrefix": "Prefix:"
+    },
+    "economy": {
+        "profile": {},
+        "like": {
+            "bots": "i cant like bots",
+            "timeout": "**{0}**,(Ratelimited)\n**You'll be able give reputation point again in {1} hours, {2} minutes and {3} seconds**",
+            "user": "**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
+            "done": "**🎖️ | Hey {0},{1} liked your the profile**"
+        }
+    },
+    "errors": {
+        "Message": "An error happened :",
+        "UserNotFound": "I couldn't find this user !",
+        "ChannelNotFound": "I couldn't find this channel !",
+        "RoleNotFound": "I Can't Found This Role",
+        "HarmYourself1": "You can't ",
+        "HarmYourself2": " yourself !",
+        "noBannerUser": "**{0}** does not have a banner",
+        "noBannerYou": "You don't have a banner",
+        "noCommandAliases": "No aliases for this command.",
+        "botsNoBanner": "🧐 Bots don't have a banner!",
+        "onlyowner": ":x: Only ownership of this server can use this command",
+        "onlydevs": ":x: Only devs can use this command"
+    },
+    "emojis": {
+        "reply": "Please insert your chosen emojis!"
+    },
     "botinfo": {
         "servers": "السيرفرات",
         "users": "المستخدمون",
@@ -70,26 +65,20 @@
         "createdAt": "أنشئت في",
         "ram": "الرامات "
     },
-    "welcome": {
-        "setchannel": "تم تعيين قناة الترحيب على {0}"
-    },
     "form": {
         "accept": "قبول",
         "deny": "رفض\n",
-        "open": "تم قبول تذكرتك ، يرجى انتظار الإدارة العليا"
+        "open": "تم قبول تذكرتك ، يرجى انتظار الإدارة العليا",
+        "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time"
     },
-    "tickets": {
-        "open": "الدعم سيكون معك قريبا\nلإغلاق هذه التذكرة اضغط على زر 🔒",
-        "butclose": "اغلاق",
-        "butcancel": "الغاء",
-        "butdelete": "حذف",
-        "wait": "جاري إنشاء التذكرة ، برجاء الانتظار ...",
-        "sure": "هل أنت متأكد أنك تريد إغلاق هذه التذكرة؟",
-        "delete": "سيتم حذف التذكرة بعد بضع ثواني .",
-        "created": "تم إنشاء التذكرة",
-        "closed": "تم إغلاق التذكرة من قِبَل",
-        "onlysupport": ": x لا يمكنك حذف هذه التذكرة إلا لأعضاء فريق العمل",
-        "youneed": ": x: تحتاج إلى إعداد التذكرة أولاً"
+    "commands": {
+        "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+        "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+        "setenabledcommands": "Please mention wanted channel to enable commands in it",
+        "disabledcommands": "Successfully disabled commands in {0} ",
+        "enabledcommands": "Successfully enable commands in {0}",
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
+        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!"
     },
     "music": {
         "song": "`🙄` أدخل اسم الأغنية أو الرابط",
@@ -107,6 +96,8 @@
             "likes": "الإعجابات:"
         }
     },
+    "donevolume": "`🔊` | ** تم تغيير مستوى الصوت إلى: ** ** {0}٪ **",
+    "nofoundmusic": "لم يتم العثور على نتيجة لـ {0}!",
     "volume": {
         "vol": "`الحالي` ** مستوى الصوت**: ** {0}٪ **",
         "enternumber": "يرجى تقديم رقم من 1 إلى 100",
