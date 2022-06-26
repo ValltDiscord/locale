@@ -36,8 +36,8 @@
         "like": {
             "bots": "i cant like bots",
             "timeout": "**{0}**,(Ratelimited)\n**You'll be able give reputation point again in {1} hours, {2} minutes and {3} seconds**",
-            "user":"**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
-            "done":"**🎖️ | Hey {0},{1} liked your the profile**"
+            "user": "**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
+            "done": "**🎖️ | Hey {0},{1} liked your the profile**"
         }
     },
     "errors": {
