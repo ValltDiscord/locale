@@ -1,67 +1,62 @@
 {
-    "bannerURL": "Lien de la bannière",
-    "avatarURL": "Lien d’image",
-    "iconURL": "Lien de l'icône",
-    "sumbit": "Merci pour votre enregistrement  ,en vas vous contactez dans le plus possible",
-    "discommands": "Cette commande est désactivée dans ce salon , s'il vous plaît contact l'administration pour savoir la raison ",
-    "blacklistBanWarning": "Vous êtes sur liste noire, contactez-nous pour savoir la raison du Blackliste.",
-    "asciiMaxCaracters": "{0} caractères maximum !",
-    "name": "Nom",
-    "nickname": "Surnom",
-    "servers": "Les serveurs",
-    "members": "Les Membres",
-    "channels": "Les salon",
-    "creationDate": "Date de Création",
-    "botInfosLanguages": "Langues prises en charge",
     "InviteBOTDescription": "Tu veux tester ma meilleure commande ? , allons-y invite-moi dans ton serveur",
-    "userInfoDay": " jour",
-    "userInfoDays": "jours",
-    "linkemojireply": "S'il vous plaît choisissez vos émojis !",
-    "setdisabledcommands": "Veuillez mentionner le salon sur lequel vous souhaitez désactiver les commandes",
-    "disabledcommands": "Commandes désactivées avec succès dans {0}",
-    "enablecommands": "Activer avec succès les commandes dans {0}",
-    "helpCommandUsage": "Utilisation :\n",
-    "helpCommandExample": "Exemples:",
-    "helpCommandAliases": "Alias :\n",
-    "helpCommandPermissions": "Autorisations :",
-    "helpPrefix": "Préfixe:",
-    "vote": "Votez à notre bot pour nous encourager",
-    "pingLatencyBot": "Latence Bot :",
-    "pingLatencyAPI": "Latence API :",
-    "configPrefixLengthMax": "Le maximum préfixe caractères est `2` caractères ",
-    "configPrefixOld": "L'ancien préfixe :",
-    "configPrefixNew": "Nouveau préfixe :",
-    "configPrefixNotString": "Le préfixe ne contient que des lettres ou des symboles !",
-    "configLangReply": "Les langues prises en charge sont l'arabe, le turc et l'anglais, aidez-nous à prendre en charge la vôtre sur https://crowdin.com/project/valltdiscord",
-    "configLangTooLong": "Les langues ne comportent que 2 caractères !",
-    "configLangOld": "Ancienne langue :",
-    "configLangNew": "Nouveau langage :",
-    "configLangUnknown": "Cette langue n'est pas disponible!",
-    "configLangNotString": "Les langues ne contiennent que des lettres!",
-    "configLogChannelOld": "Vieille Log Chaine : ",
-    "configLogChannelNew": "Nouveau Log chaine :",
-    "messageEventMissingPerm1": "Vous n'avez pas le ",
-    "messageEventMissingPerm2": "permission d'exécuter cette commande !",
-    "messageEventBotMissingPerm1": "je n'ai pas le\n",
-    "messageEventBotMissingPerm2": "Permission d'exécuter cette commande !",
-    "messageEventCommandNeedArg1": "Vous avez besoin\n ",
-    "messageEventCommandNeedArg2one": "argument pour cette commande,",
-    "messageEventCommandNeedArg2multiple": "arguments pour cette commande,",
-    "EcoBioNewBio": "Nouveau",
-    "errorMessage": "Une erreur s'est produite :",
-    "errorUserNotFound": "Je peux pas trouvé cet utilisateur !",
-    "errorChannelNotFound": "Je peux pas trouvé cette chaîne !",
-    "errorRoleNotFound": "I Can't Found This Role",
-    "errorHarmYourself1": "Vous ne pouvez pas ",
-    "errorHarmYourself2": "Vous-même !",
-    "noBannerUser": "**{0}** n'a pas de bannière",
-    "noBannerYou": "Vous n'avez pas de bannière\n",
-    "noCommandAliases": "Aucun alias pour cette commande.",
-    "botsNoBanner": "🧐 Les bots n'ont pas de bannière!",
-    "onlyowner": ":x : Seul le propriétaire de ce serveur peut utiliser cette commande",
-    "onlydevs": ":x : Seuls les développeurs peuvent utiliser cette commande",
-    "donevolume": "`🔊` | **Modifier le volume à :** **{0} %**",
-    "nofoundmusic": "Aucun résultat trouvé pour {0} !",
+    "ping": {
+        "LatencyBot": "Bot latency :",
+        "LatencyAPI": "API latency :"
+    },
+    "user": {
+        "bannerURL": "Banner URL",
+        "avatarURL": "Avatar URL",
+        "blacklistBanWarning": "You're blacklisted, contact us to appeal the blacklist.",
+        "vote": "Vote for our bot to encourage us to continue"
+    },
+    "guild": {
+        "iconURL": "Icon URL"
+    },
+    "config": {
+        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixNew": "New prefix :",
+        "PrefixNotString": "The prefix contains only letters or symbols !",
+        "LangReply": " Supported languages are Arabic, Turkish , English, help us to support yours at https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Languages are only 2 characters long !",
+        "LangNew": "New language :",
+        "LangUnknown": "This language is not available!",
+        "LangNotString": "Languages only contain letters !",
+        "LangbotInfos": "Supported Languages"
+    },
+    "help": {
+        "helpCommandUsage": "Usage :",
+        "helpCommandExample": "Examples:",
+        "helpCommandAliases": "Aliases :",
+        "helpCommandPermissions": "Permissions :",
+        "helpPrefix": "Prefix:"
+    },
+    "economy": {
+        "profile": {},
+        "like": {
+            "bots": "i cant like bots",
+            "timeout": "**{0}**,(Ratelimited)\n**You'll be able give reputation point again in {1} hours, {2} minutes and {3} seconds**",
+            "user": "**{0}**, You can rep someone now,\nYou need to mention user to be given likes!",
+            "done": "**🎖️ | Hey {0},{1} liked your the profile**"
+        }
+    },
+    "errors": {
+        "Message": "An error happened :",
+        "UserNotFound": "I couldn't find this user !",
+        "ChannelNotFound": "I couldn't find this channel !",
+        "RoleNotFound": "I Can't Found This Role",
+        "HarmYourself1": "You can't ",
+        "HarmYourself2": " yourself !",
+        "noBannerUser": "**{0}** does not have a banner",
+        "noBannerYou": "You don't have a banner",
+        "noCommandAliases": "No aliases for this command.",
+        "botsNoBanner": "🧐 Bots don't have a banner!",
+        "onlyowner": ":x: Only ownership of this server can use this command",
+        "onlydevs": ":x: Only devs can use this command"
+    },
+    "emojis": {
+        "reply": "Please insert your chosen emojis!"
+    },
     "botinfo": {
         "servers": "Les serveurs",
         "users": "Utilisateurs",
@@ -70,26 +65,20 @@
         "createdAt": "Créé à",
         "ram": "RAM"
     },
-    "welcome": {
-        "setchannel": "Le canal de bienvenue a été défini sur {0}"
-    },
     "form": {
         "accept": "Accepte",
         "deny": "Refusé",
-        "open": "Done Accepted Your Ticket, Please Wait Senior Management"
+        "open": "Done Accepted Your Ticket, Please Wait Senior Management",
+        "sumbit": "Thanks for your sumbit , we will contact with you in the fastest time"
     },
-    "tickets": {
-        "open": "Le support sera avec vous dès que possible.\nPour fermer ce ticket cliquez sur le bouton 🔒",
-        "butclose": "Fermer",
-        "butcancel": "Annuler",
-        "butdelete": "Supprimer",
-        "wait": "Création du Billet, veuillez patienter...",
-        "sure": "Êtes-vous sûr de vouloir fermer ce billet ?\n",
-        "delete": "Le Billet sera supprimé dans quelques secondes",
-        "created": "Billet créé",
-        "closed": "Ticket Closed By",
-        "onlysupport": ":x You Can't Delete This Ticket Only Staff Members",
-        "youneed": ":x: Need Ticket Setup First "
+    "commands": {
+        "discommands": "Commands are disabled in this room ,  contact the admins to know the reason ",
+        "setdisabledcommands": "Please mention wanted channel to disable commands in it",
+        "setenabledcommands": "Please mention wanted channel to enable commands in it",
+        "disabledcommands": "Successfully disabled commands in {0} ",
+        "enabledcommands": "Successfully enable commands in {0}",
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
+        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!"
     },
     "music": {
         "song": "`🙄` Provide a Song Name Or Link",
@@ -107,6 +96,8 @@
             "likes": "Aime:"
         }
     },
+    "donevolume": "`🔊` | **Modifier le volume à :** **{0} %**",
+    "nofoundmusic": "Aucun résultat trouvé pour {0} !",
     "volume": {
         "vol": "`Actuel` **volume** : **{0} %**",
         "enternumber": "Please Provide Number in 1 to 100",
