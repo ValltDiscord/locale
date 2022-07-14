@@ -1,3 +1,4 @@
+pull_request_title: '🎉 chore(strings): new crowdin translation'
 files:
   - source: /en/
     ignore:
