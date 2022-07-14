@@ -22,14 +22,14 @@
         "LangNew": "New language :",
         "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
         "LangNotString": "Languages should only contain letters!",
-        "LangbotInfos": "Supported Languages"
+        "LangbotInfos": "اللغات المدعومة"
     },
     "help": {
-        "helpCommandUsage": "Usage :",
-        "helpCommandExample": "Examples :",
-        "helpCommandAliases": "Aliases :",
+        "helpCommandUsage": "الاستخدام:",
+        "helpCommandExample": "أمثلة :",
+        "helpCommandAliases": "الاختصارات:",
         "helpCommandPermissions": "Permissions :",
-        "helpPrefix": "Prefix :"
+        "helpPrefix": "بادئة :"
     },
     "economy": {
         "profile": {},
@@ -44,15 +44,15 @@
         "Message": "An error occurred :",
         "UserNotFound": "I couldn't find that user!",
         "ChannelNotFound": "I couldn't find that channel!",
-        "RoleNotFound": "I couldn't find that role!",
-        "HarmYourself1": "You can't",
-        "HarmYourself2": "yourself!",
-        "noBannerUser": "**{0}** does not have a banner",
-        "noBannerYou": "You don't have a banner",
-        "noCommandAliases": "No aliases for this command.",
-        "botsNoBanner": "🧐 Bots don't have banners!",
-        "onlyowner": ":x: Only the ownership of this server can use this command",
-        "onlydevs": ":x: Only devs can use this command"
+        "RoleNotFound": "لم أتمكن من العثور على هذه الرتبة!",
+        "HarmYourself1": "لا يمكنك",
+        "HarmYourself2": "نفسك!",
+        "noBannerUser": "**{0}** ليس لديه بنر",
+        "noBannerYou": "أنت ليس لديك بنر",
+        "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
+        "botsNoBanner": "🧐 البوتات ليس لديهم بنر!",
+        "onlyowner": ":x: فقط صاحب السيرفر يقدر يستخدم هذا الأمر",
+        "onlydevs": ":x : فقط المطورين يقدرو يستخدمو هذا الأمر"
     },
     "emojis": {
         "reply": "Please provide the emojis!"
@@ -73,7 +73,7 @@
     },
     "commands": {
         "discommands": "Commands are disabled in this room.",
-        "setdisabledcommands": "Please mention the channel you want to disable command in.",
+        "setdisabledcommands": "يرجى منشن القناة التي تريد تعطيل الأوامر عليها.",
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "Successfully disabled commands in {0} ",
         "enabledcommands": "Successfully enable commands in {0}",
