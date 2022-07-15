@@ -58,17 +58,17 @@
         "reply": "Please provide the emojis!"
     },
     "botinfo": {
-        "servers": "Серверы",
+        "servers": "Servers",
         "users": "Users",
-        "channels": "каналы",
-        "uptime": "Время безотказной работы",
-        "createdAt": "Создано на",
-        "ram": "Баран"
+        "channels": "Channels",
+        "uptime": "Uptime",
+        "createdAt": "CreatedAt",
+        "ram": "Ram"
     },
     "form": {
-        "accept": "Принимать",
-        "deny": "Отрицать",
-        "open": "Готово, ваш билет принят, пожалуйста, подождите, высшее руководство",
+        "accept": "Accept",
+        "deny": "Deny",
+        "open": "Done Accepted Your Ticket, Please Wait Senior Management",
         "sumbit": "Thank you for submitting the application, our team will contact with you asap."
     },
     "commands": {
@@ -81,30 +81,30 @@
         "show": "<:valtdone:987760891737026620> {0} has been successfully shown!"
     },
     "music": {
-        "song": "`🙄` Provide a Song Name Or Link\n",
-        "joinvoice": "Сначала присоединитесь к тому же голосовому каналу",
-        "noqueue": "Недоступная очередь прямо сейчас!",
-        "searching": "Идет поиск ..",
-        "processing": "Обработка ..",
-        "loop": "`🔁` | **Петля включена в песне**",
-        "unloop": "`🔁` | **Цикл отключен**",
+        "song": "`🙄` Provide a Song Name Or Link",
+        "joinvoice": "Please Join a Same Voice Channel First",
+        "noqueue": "Not Available Queue Right Now!",
+        "searching": "Searching ..",
+        "processing": "Processing ..",
+        "loop": "`🔁` | **Loop is Enable is Song**",
+        "unloop": "`🔁` | **Loop is Disable**",
         "youtube": {
-            "uploader": "Загрузчик:",
-            "requester": "Заявитель:",
-            "volume": "Объем:\n",
-            "views": "Взгляды:",
-            "likes": "Нравится:"
+            "uploader": "Uploader:",
+            "requester": "Requester:",
+            "volume": "Volume:",
+            "views": "Views:",
+            "likes": "Likes:"
         }
     },
-    "donevolume": "`🔊` | **Изменить громкость на:** **{0}%**",
-    "nofoundmusic": "Ничего не найдено для {0}!",
+    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
+    "nofoundmusic": "No result found for {0}!",
     "volume": {
-        "vol": "`Текущий` **том**: **{0}%**",
-        "enternumber": "Пожалуйста, укажите число от 1 до 100",
-        "only100": "Пожалуйста, укажите число от 1 до 100"
+        "vol": "`Current` **volume** : **{0}%**",
+        "enternumber": "Please Provide Number in 1 to 100",
+        "only100": "You Can Select Volume Starting in 1 To 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **Я не могу найти песни в очереди**",
-        "done": "`⏭` | **Готово Пропущена песня**"
+        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
+        "done": "`⏭` | **Done Skipped a `Song`**"
     }
 }
