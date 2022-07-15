@@ -5,13 +5,13 @@
         "LatencyAPI": "API latency :"
     },
     "user": {
-        "bannerURL": "Banner URL",
-        "avatarURL": "Avatar URL",
+        "bannerURL": "رابط البنر",
+        "avatarURL": "رابط الصورة",
         "blacklistBanWarning": "You are blacklisted, if you think you got blacklisted for no reason contact @Anas#4254",
         "vote": "Vote for our bot to encourage us to continue"
     },
     "guild": {
-        "iconURL": "Icon URL"
+        "iconURL": "رابط الايقونة"
     },
     "config": {
         "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
