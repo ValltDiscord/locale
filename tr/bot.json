@@ -66,8 +66,8 @@
         "ram": "Veri deposu"
     },
     "form": {
-        "accept": "Kabul",
-        "deny": "Reddetmek",
+        "accept": "Accept",
+        "deny": "Deny",
         "open": "Done Accepted Your Ticket, Please Wait Senior Management",
         "sumbit": "Thank you for submitting the application, our team will contact with you asap."
     },
@@ -85,26 +85,26 @@
         "joinvoice": "Please Join a Same Voice Channel First",
         "noqueue": "Not Available Queue Right Now!",
         "searching": "Searching ..",
-        "processing": "İşleme ..",
-        "loop": "`🔁` | **Döngü Etkinleştir Şarkıdır**",
-        "unloop": "`🔁` | **Döngü Devre Dışı**",
+        "processing": "Processing ..",
+        "loop": "`🔁` | **Loop is Enable is Song**",
+        "unloop": "`🔁` | **Loop is Disable**",
         "youtube": {
-            "uploader": "Yükleyici:",
-            "requester": "talep eden:",
-            "volume": "Ses:",
-            "views": "Görüntüleme:",
-            "likes": "Seviyor:"
+            "uploader": "Uploader:",
+            "requester": "Requester:",
+            "volume": "Volume:",
+            "views": "Views:",
+            "likes": "Likes:"
         }
     },
-    "donevolume": "`🔊` | **Sesi değiştir:** **%{0}**",
-    "nofoundmusic": "{0} için sonuç bulunamadı!",
+    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
+    "nofoundmusic": "No result found for {0}!",
     "volume": {
-        "vol": "`Mevcut` **hacim** : **%{0}**",
-        "enternumber": "Lütfen 1'den 100'e kadar Sayı Girin",
-        "only100": "Lütfen 1'den 100'e kadar Sayı Girin"
+        "vol": "`Current` **volume** : **{0}%**",
+        "enternumber": "Please Provide Number in 1 to 100",
+        "only100": "You Can Select Volume Starting in 1 To 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **Kuyrukta 'Şarkılar' Bulamıyorum**",
-        "done": "`⏭` | **Bitti Bir \"Şarkı\" Atlandı**"
+        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
+        "done": "`⏭` | **Done Skipped a `Song`**"
     }
 }

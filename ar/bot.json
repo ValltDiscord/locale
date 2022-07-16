@@ -66,9 +66,9 @@
         "ram": "الرامات "
     },
     "form": {
-        "accept": "قبول",
-        "deny": "رفض\n",
-        "open": "تم قبول تذكرتك ، يرجى انتظار الإدارة العليا",
+        "accept": "Accept",
+        "deny": "Deny",
+        "open": "Done Accepted Your Ticket, Please Wait Senior Management",
         "sumbit": "Thank you for submitting the application, our team will contact with you asap."
     },
     "commands": {
@@ -81,30 +81,30 @@
         "show": "<:valtdone:987760891737026620> {0} has been successfully shown!"
     },
     "music": {
-        "song": "`🙄` أدخل اسم الأغنية أو الرابط",
-        "joinvoice": "يرجى الانضمام إلى نفس القناة الصوتية أولاً",
-        "noqueue": "قائمة الانتظار غير متوفرة الآن!",
+        "song": "`🙄` Provide a Song Name Or Link",
+        "joinvoice": "Please Join a Same Voice Channel First",
+        "noqueue": "Not Available Queue Right Now!",
         "searching": "جارٍ البحث …",
-        "processing": "يعالج ..",
-        "loop": "`🔁` | ** التكرار هو التمكين هو الأغنية **",
-        "unloop": "`🔁` | ** الحلقة معطلة **",
+        "processing": "Processing ..",
+        "loop": "`🔁` | **Loop is Enable is Song**",
+        "unloop": "`🔁` | **Loop is Disable**",
         "youtube": {
-            "uploader": "رافع:",
-            "requester": "مقدم الطلب:",
-            "volume": "مقدار:",
-            "views": "المشاهدات:",
-            "likes": "الإعجابات:"
+            "uploader": "Uploader:",
+            "requester": "Requester:",
+            "volume": "Volume:",
+            "views": "Views:",
+            "likes": "Likes:"
         }
     },
-    "donevolume": "`🔊` | ** تم تغيير مستوى الصوت إلى: ** ** {0}٪ **",
-    "nofoundmusic": "لم يتم العثور على نتيجة لـ {0}!",
+    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
+    "nofoundmusic": "No result found for {0}!",
     "volume": {
-        "vol": "`الحالي` ** مستوى الصوت**: ** {0}٪ **",
-        "enternumber": "يرجى تقديم رقم من 1 إلى 100",
-        "only100": "يرجى تقديم رقم من 1 إلى 100"
+        "vol": "`Current` **volume** : **{0}%**",
+        "enternumber": "Please Provide Number in 1 to 100",
+        "only100": "You Can Select Volume Starting in 1 To 100"
     },
     "skip": {
-        "noqueue": "`🚨` | ** لا يمكنني العثور على `الأغاني` في قائمة الانتظار **",
-        "done": "`⏭` | ** تم تخطي `أغنية` **"
+        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
+        "done": "`⏭` | **Done Skipped a `Song`**"
     }
 }
