@@ -54,6 +54,12 @@
 	"dashboard.config.reset_settings": "Reset Server Settings",
 	"dashboard.welcome.message_content": "Message Content",
 	"dashboard.welcome.welcome_channel": "Welcome Channel",
+	"dashboard.autoreaction.empty_title": "No Auto-Reactions Added",
+	"dashboard.autoreaction.empty_description": "Let Vallt react to your community members 😉",
+	"dashboard.autoreaction.c_limit_reached": "You can't add more channels, try Vallt Plus now.",
+	"dashboard.autoreaction.e_limit_reached": "You can't add more emojis, try Vallt Plus now.",
+	"dashboard.autoreaction.channel_not_found": "Channel not found",
+	"dashboard.autoreaction.channel_not_selected": "Channcel not selected",
 	"dashboard.more.emojis_channel": "Emojis Channel",
 	"dashboard.more.tiktok_channel": "TikTok Channel",
 	"dashboard.more.instagram_channel": "Instagram Channel",
@@ -62,5 +68,9 @@
 	"Welcome": "Welcome",
 	"Auto Reaction": "Auto Reaction",
 	"Forms": "Forms",
-	"More": "More"
+	"More": "More",
+	"unsaved_changes_alert.message": "You have unsaved changes",
+	"unsaved_changes_alert.save": "Save",
+	"unsaved_changes_alert.cancel": "Cancel",
+	"add_a_channel": "Add a Channel"
 }
