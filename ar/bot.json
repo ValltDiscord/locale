@@ -2,7 +2,7 @@
     "InviteBOTDescription": "هل تريد تجربة الأوامر ؟, قم بدعوتي إلى سيرفرك!",
     "ping": {
         "LatencyBot": "سرعة استجابة البوت:",
-        "LatencyAPI": "وقت استجابة Api:"
+        "LatencyAPI": "وقت استجابة ال API:"
     },
     "user": {
         "bannerURL": "رابط البانر",
