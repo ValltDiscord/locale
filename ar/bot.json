@@ -1,5 +1,5 @@
 {
-    "InviteBOTDescription": "هل تريد تجربة الأوامر ؟, قم بدعوتي إلى سيرفرك!",
+    "InviteBOTDescription": "Do you want to try my commands?, Invite me to your server now!",
     "ping": {
         "LatencyBot": "سرعة استجابة البوت:",
         "LatencyAPI": "وقت استجابة ال API:"
@@ -14,13 +14,13 @@
         "iconURL": "رابط الشعار"
     },
     "config": {
-        "PrefixLengthMax": "الحد الأقصى لعدد أحرف البادئة هو \"2\" حرفًا ",
+        "PrefixLengthMax": "Maximum prefix length is `2` characters ",
         "PrefixNew": "البادئة الجديدة:",
         "PrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
         "LangReply": "اللغات المدعومة هي العربية والتركية والإنجليزية ، ساعدنا في دعم لغتك على: \nhttps://crowdin.com/project/valltdiscord",
         "LangTooLong": "اللغات تتكون من حرفين فقط! ",
         "LangNew": "اللغة الجديدة:",
-        "LangUnknown": "هذه اللغة غير مدعومة!، ساعدنا في دعم لغتك على: \nhttps://crowdin.com/project/valltdiscord",
+        "LangUnknown": "هذه اللغة غير مدعومة! ساعدنا في دعم لغتك على: \nhttps://crowdin.com/project/valltdiscord",
         "LangNotString": "اللغات تحتوي فقط على حروف فقط!",
         "LangbotInfos": "اللغات المدعومة"
     },
@@ -47,7 +47,7 @@
         "RoleNotFound": "لم أتمكن من العثور على هذه الرتبة!",
         "HarmYourself1": "لا يمكنك",
         "HarmYourself2": "yourself!",
-        "noBannerUser": ":x: The user does not have a banner!",
+        "noBannerUser": "**{0}** ليس لديه بانر",
         "noBannerYou": "ليس لديك بانر",
         "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
         "botsNoBanner": "🧐 البوتات ليس لديهم بانر!",
@@ -83,7 +83,7 @@
     "music": {
         "song": "`🙄` يرجى تقديم اسم الأغنية أو الرابط",
         "joinvoice": "يرجى الانضمام إلى روم صوتي أولاً",
-        "noqueue": "قائمة الانتظار غير متوفرة الآن!",
+        "noqueue": "❌ قائمة الانتظار فارغة حالياً",
         "searching": "جارٍ البحث...",
         "processing": "Processing ..",
         "loop": "`🔁` | **تم تفعيل التكرار**",
@@ -96,15 +96,15 @@
             "likes": "اللايكات:"
         }
     },
-    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
+    "donevolume": "`🔊` | Volume has been set to **{0}**",
     "nofoundmusic": "لم يتم العثور على نتيجة لـ {0}!",
     "volume": {
         "vol": "`Current` **volume** : **{0}%**",
-        "enternumber": "يرجى وضع الرقم من 1-100",
-        "only100": "يمكنك تحديد مستوى الصوت يبدأ من 1 إلى 100"
+        "enternumber": "Please provide a number between 1 and 100",
+        "only100": "The volume must be a number between 1 and 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **لم استطيع العثور على `الأغنية` في قائمة الانتظار**",
-        "done": "`⏭` | **تم تخطي `الأغنية`**"
+        "noqueue": "`🚨` | **I can't find any tracks in queue**",
+        "done": "`⏭` | **Track has been skipped successfully**"
     }
 }
