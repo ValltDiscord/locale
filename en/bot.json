@@ -72,7 +72,7 @@
         "sumbit": "Thank you for submitting the application, our team will contact with you asap."
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
+        "discommands": "Commands are disabled in this channel.",
         "setdisabledcommands": "Please mention the channel you want to disable command in.",
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "Successfully disabled commands in {0} ",
