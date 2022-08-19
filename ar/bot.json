@@ -47,7 +47,7 @@
         "RoleNotFound": "لم أتمكن من العثور على هذه الرتبة!",
         "HarmYourself1": "لا يمكنك",
         "HarmYourself2": "yourself!",
-        "noBannerUser": "**{0}** ليس لديه بانر",
+        "noBannerUser": ":x: The user does not have a banner!",
         "noBannerYou": "ليس لديك بانر",
         "noCommandAliases": "لا يوجد اختصارات لهذا الأمر.",
         "botsNoBanner": "🧐 البوتات ليس لديهم بانر!",
