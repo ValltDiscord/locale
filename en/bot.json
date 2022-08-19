@@ -104,7 +104,7 @@
         "only100": "You Can Select Volume Starting From 1 To 100"
     },
     "skip": {
-        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
-        "done": "`⏭` | **Done Skipped a `Song`**"
+        "noqueue": "`🚨` | **I can't find any tracks in queue**",
+        "done": "`⏭` | **Track has been skipped successfully**"
     }
 }
