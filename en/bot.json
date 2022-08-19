@@ -1,5 +1,5 @@
 {
-    "InviteBOTDescription": "Do you want to test my commands?, Invite me to your server now!",
+    "InviteBOTDescription": "Do you want to try my commands?, Invite me to your server now!",
     "ping": {
         "LatencyBot": "Bot latency :",
         "LatencyAPI": "API latency :"
@@ -14,7 +14,7 @@
         "iconURL": "Icon URL"
     },
     "config": {
-        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixLengthMax": "Maximum prefix length is `2` characters ",
         "PrefixNew": "New prefix :",
         "PrefixNotString": "The prefix should only contain letters or symbols!",
         "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
@@ -22,7 +22,7 @@
         "LangNew": "New language :",
         "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
         "LangNotString": "Languages should only contain letters!",
-        "LangbotInfos": "Supported Languages"
+        "LangbotInfos": "Supported languages"
     },
     "help": {
         "helpCommandUsage": "Usage :",
