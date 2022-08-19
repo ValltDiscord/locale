@@ -47,7 +47,7 @@
         "RoleNotFound": "I couldn't find that role!",
         "HarmYourself1": "You can't",
         "HarmYourself2": "yourself!",
-        "noBannerUser": "**{0}** does not have a banner",
+        "noBannerUser": ":x: The user does not have a banner!",
         "noBannerYou": "You don't have a banner",
         "noCommandAliases": "No aliases for this command.",
         "botsNoBanner": "🧐 Bots don't have banners!",
