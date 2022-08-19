@@ -47,7 +47,7 @@
         "RoleNotFound": "Je n'ai pas trouvé ce rôle!",
         "HarmYourself1": "Vous ne pouvez pas",
         "HarmYourself2": "Vous-même !",
-        "noBannerUser": "**{0}** n'a pas de bannière",
+        "noBannerUser": ":x: The user does not have a banner!",
         "noBannerYou": "Vous n'avez pas de bannière\n",
         "noCommandAliases": "Aucun alias pour cette commande.",
         "botsNoBanner": "🧐 Les bots n'ont pas de bannières !",
