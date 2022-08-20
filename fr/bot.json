@@ -72,7 +72,7 @@
         "sumbit": "Merci d'avoir soumis la candidature, notre équipe vous contactera dans les plus brefs délais."
     },
     "commands": {
-        "discommands": "Les commandes sont désactivées dans cette salle.",
+        "discommands": "Commands are disabled in this channel.",
         "setdisabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez désactiver la commande.",
         "setenabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez activer les commandes.",
         "disabledcommands": "Commandes désactivées avec succès dans {0}",

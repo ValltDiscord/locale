@@ -1,5 +1,5 @@
 {
-    "InviteBOTDescription": "Do you want to try my commands?, Invite me to your server now!",
+    "InviteBOTDescription": "هل تريد تجرِبة الأوامر؟ أضفني إلى سيرفرك!",
     "ping": {
         "LatencyBot": "سرعة استجابة البوت:",
         "LatencyAPI": "وقت استجابة ال API:"
@@ -14,7 +14,7 @@
         "iconURL": "رابط الشعار"
     },
     "config": {
-        "PrefixLengthMax": "Maximum prefix length is `2` characters ",
+        "PrefixLengthMax": "الحد الأقصى للبادئة هو حَرفين\n",
         "PrefixNew": "البادئة الجديدة:",
         "PrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
         "LangReply": "اللغات المدعومة هي العربية والتركية والإنجليزية ، ساعدنا في دعم لغتك على: \nhttps://crowdin.com/project/valltdiscord",
@@ -61,9 +61,9 @@
         "servers": "السيرفرات",
         "users": "المستخدمون",
         "channels": "الرومات",
-        "uptime": "ظهور",
+        "uptime": "Uptime",
         "createdAt": "أنشئت في",
-        "ram": "الرامات "
+        "ram": "Ram"
     },
     "form": {
         "accept": "قبول",
@@ -72,7 +72,7 @@
         "sumbit": "نشكرك على تقديم الطلب، سيقوم فريقنا بالتواصل معك في أسرع وقت ممكن."
     },
     "commands": {
-        "discommands": "الأوامر معطلة في هذا الروم.",
+        "discommands": "Commands are disabled in this channel.",
         "setdisabledcommands": "يرجى منشن الروم لتعطيل الأوامر عليها.",
         "setenabledcommands": "يرجى منشن الروم لتشغيل الأوامر عليها.",
         "disabledcommands": "تم تعطيل الأوامر بنجاح في {0} ",
@@ -101,7 +101,7 @@
     "volume": {
         "vol": "`Current` **volume** : **{0}%**",
         "enternumber": "Please provide a number between 1 and 100",
-        "only100": "The volume must be a number between 1 and 100"
+        "only100": "حجم الصوت يجب أن يكون رقماً بين 1 و 100"
     },
     "skip": {
         "noqueue": "`🚨` | **I can't find any tracks in queue**",

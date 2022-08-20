@@ -47,7 +47,7 @@
         "RoleNotFound": "I couldn't find that role!",
         "HarmYourself1": "You can't",
         "HarmYourself2": "yourself!",
-        "noBannerUser": "**{0}** does not have a banner",
+        "noBannerUser": ":x: The user does not have a banner!",
         "noBannerYou": "You don't have a banner",
         "noCommandAliases": "No aliases for this command.",
         "botsNoBanner": "🧐 Bots don't have banners!",
@@ -72,7 +72,7 @@
         "sumbit": "Thank you for submitting the application, our team will contact with you asap."
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
+        "discommands": "Commands are disabled in this channel.",
         "setdisabledcommands": "Please mention the channel you want to disable command in.",
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "Successfully disabled commands in {0} ",
