@@ -63,7 +63,7 @@
         "channels": "الرومات",
         "uptime": "Uptime",
         "createdAt": "أنشئت في",
-        "ram": "Ram"
+        "ram": "الذاكرة العشوائية"
     },
     "form": {
         "accept": "قبول",
@@ -72,7 +72,7 @@
         "sumbit": "نشكرك على تقديم الطلب، سيقوم فريقنا بالتواصل معك في أسرع وقت ممكن."
     },
     "commands": {
-        "discommands": "Commands are disabled in this channel.",
+        "discommands": "الأوامر معطلة في هذا الروم.",
         "setdisabledcommands": "يرجى منشن الروم لتعطيل الأوامر عليها.",
         "setenabledcommands": "يرجى منشن الروم لتشغيل الأوامر عليها.",
         "disabledcommands": "تم تعطيل الأوامر بنجاح في {0} ",
