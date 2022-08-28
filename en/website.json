@@ -59,7 +59,7 @@
 	"dashboard.autoreaction.c_limit_reached": "You can't add more channels, try Vallt Plus now.",
 	"dashboard.autoreaction.e_limit_reached": "You can't add more emojis, try Vallt Plus now.",
 	"dashboard.autoreaction.channel_not_found": "Channel not found",
-	"dashboard.autoreaction.channel_not_selected": "Channcel not selected",
+	"dashboard.autoreaction.channel_not_selected": "Channel not selected",
 	"dashboard.more.emojis_channel": "Emojis Channel",
 	"dashboard.more.tiktok_channel": "TikTok Channel",
 	"dashboard.more.instagram_channel": "Instagram Channel",
