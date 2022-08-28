@@ -49,7 +49,7 @@
         "sureunlock": ":thinking: Are you sure you want to unlock channels all ?",
         "surehide": ":thinking: Are you sure you want to hide channels all ?",
         "sureshow": ":thinking: Are you sure you want to show channels all ?",
-        "hideall": "<:valtdone:987760891737026620> all} has been successfully hidden!",
+        "hideall": "<:valtdone:987760891737026620> all has been successfully hidden!",
         "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
         "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
         "unlockall": "<:valtdone:987760891737026620> all has been successfully unlocked!",
@@ -91,34 +91,7 @@
         "discommands": "Commands are disabled in this room.",
         "setdisabledcommands": "يرجى منشن الروم لتعطيل الأوامر عليها.",
         "setenabledcommands": "يرجى منشن الروم لتشغيل الأوامر عليها.",
-        "disabledcommands": "تم تعطيل الأوامر بنجاح في {0} ",
-        "enabledcommands": "تم تشغيل الأوامر في {0}"
-    },
-    "music": {
-        "song": "`🙄` يرجى تقديم اسم الأغنية أو الرابط",
-        "joinvoice": "يرجى الانضمام إلى روم صوتي أولاً",
-        "noqueue": "Not Available Queue Right Now!",
-        "searching": "جارٍ البحث...",
-        "processing": "Processing ..",
-        "loop": "`🔁` | **تم تفعيل التكرار**",
-        "unloop": "`🔁` | **تم تعطيل التكرار**",
-        "youtube": {
-            "uploader": "Uploader:",
-            "requester": "Requester:",
-            "volume": "الصوت:",
-            "views": "المشاهدات:",
-            "likes": "اللايكات:"
-        }
-    },
-    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
-    "nofoundmusic": "لم يتم العثور على نتيجة لـ {0}!",
-    "volume": {
-        "vol": "`Current` **volume** : **{0}%**",
-        "enternumber": "Please Provide Number in 1 to 100",
-        "only100": "You Can Select Volume Starting in 1 To 100"
-    },
-    "skip": {
-        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
-        "done": "`⏭` | **Done Skipped a `Song`**"
+        "disabledcommands": "<:valtdone:987760891737026620> Successfully disabled commands in {0} ",
+        "enabledcommands": "<:valtdone:987760891737026620> Successfully enable commands in {0}"
     }
 }
