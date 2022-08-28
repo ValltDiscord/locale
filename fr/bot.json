@@ -41,20 +41,20 @@
         }
     },
     "channels": {
-        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
-        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
-        "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
-        "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
-        "surelock": ":thinking: Are you sure you want to lock channels all ?",
-        "sureunlock": ":thinking: Are you sure you want to unlock channels all ?",
-        "surehide": ":thinking: Are you sure you want to hide channels all ?",
-        "sureshow": ":thinking: Are you sure you want to show channels all ?",
-        "hideall": "<:valtdone:987760891737026620> all} has been successfully hidden!",
-        "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
-        "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
-        "unlockall": "<:valtdone:987760891737026620> all has been successfully unlocked!",
-        "yes": "Yes",
-        "no": "No"
+        "hide": "<:valtdone:987760891737026620> {0} a été masqué avec succès !",
+        "show": "<:valtdone:987760891737026620> {0} a été affiché avec succès !",
+        "lock": "<:valtdone:987760891737026620> {0} a été verrouillé avec succès !",
+        "unlock": "<:valtdone:987760891737026620> {0} a été déverrouillé avec succès !",
+        "surelock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les chaînes ?",
+        "sureunlock": ":thinking: Êtes-vous sûr de vouloir déverrouiller toutes les chaînes ?",
+        "surehide": ":thinking: Êtes-vous sûr de vouloir masquer toutes les chaînes ?",
+        "sureshow": ":thinking: Êtes-vous sûr de vouloir afficher toutes les chaînes ?",
+        "hideall": "<:valtdone:987760891737026620> all has been successfully hidden!",
+        "showall": "<:valtdone:987760891737026620> tout a été affiché avec succès !",
+        "lockall": "<:valtdone:987760891737026620> tout a été verrouillé avec succès !",
+        "unlockall": "<:valtdone:987760891737026620> tout a été déverrouillé avec succès !",
+        "yes": "Oui",
+        "no": "Non"
     },
     "errors": {
         "Message": "Une erreur s'est produite :",
@@ -63,7 +63,7 @@
         "RoleNotFound": "Je n'ai pas trouvé ce rôle!",
         "HarmYourself1": "Vous ne pouvez pas",
         "HarmYourself2": "Vous-même !",
-        "noBannerUser": "**{0}** n'a pas de bannière",
+        "noBannerUser": ":x: L'utilisateur n'a pas de bannière !",
         "noBannerYou": "Vous n'avez pas de bannière\n",
         "noCommandAliases": "Aucun alias pour cette commande.",
         "botsNoBanner": "🧐 Les bots n'ont pas de bannières !",
@@ -79,46 +79,19 @@
         "channels": "Les salon",
         "uptime": "Disponibilité",
         "createdAt": "Créé à",
-        "ram": "RAM"
+        "ram": "Ram"
     },
     "form": {
-        "accept": "Accepte",
+        "accept": "Accepter",
         "deny": "Refusé",
         "open": "Terminé Accepté votre ticket, veuillez patienter",
         "sumbit": "Merci d'avoir soumis la candidature, notre équipe vous contactera dans les plus brefs délais."
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
+        "discommands": "Les commandes sont désactivées dans ce salon.",
         "setdisabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez désactiver la commande.",
         "setenabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez activer les commandes.",
-        "disabledcommands": "Commandes désactivées avec succès dans {0}",
-        "enabledcommands": "Activer avec succès les commandes dans {0}"
-    },
-    "music": {
-        "song": "`🙄` Fournir un nom de chanson ou un lien",
-        "joinvoice": "Veuillez d'abord rejoindre un même canal vocal",
-        "noqueue": "Not Available Queue Right Now!",
-        "searching": "Searching ..",
-        "processing": "Processing ..",
-        "loop": "`🔁` | **Loop is Enable is Song**",
-        "unloop": "`🔁` | **Loop is Disable**",
-        "youtube": {
-            "uploader": "Uploader:",
-            "requester": "Requester:",
-            "volume": "Volume:",
-            "views": "Views:",
-            "likes": "Likes:"
-        }
-    },
-    "donevolume": "`🔊` | **Change volume to:** **{0}%**",
-    "nofoundmusic": "No result found for {0}!",
-    "volume": {
-        "vol": "`Current` **volume** : **{0}%**",
-        "enternumber": "Please Provide Number in 1 to 100",
-        "only100": "You Can Select Volume Starting in 1 To 100"
-    },
-    "skip": {
-        "noqueue": "`🚨` | **I Can't Found `Songs` in Queue**",
-        "done": "`⏭` | **Done Skipped a `Song`**"
+        "disabledcommands": "<:valtdone:987760891737026620> Successfully disabled commands in {0} ",
+        "enabledcommands": "<:valtdone:987760891737026620> Successfully enable commands in {0}"
     }
 }
