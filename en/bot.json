@@ -53,8 +53,8 @@
         "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
         "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
         "unlockall": "<:valtdone:987760891737026620> all has been successfully unlocked!",
-        "yes":"Yes",
-        "no":"No"
+        "yes": "Yes",
+        "no": "No"
     },
     "errors": {
         "Message": "An error occurred :",
