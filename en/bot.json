@@ -91,7 +91,7 @@
         "discommands": "Commands are disabled in this room.",
         "setdisabledcommands": "Please mention the channel you want to disable command in.",
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
-        "disabledcommands": "Successfully disabled commands in {0} ",
-        "enabledcommands": "Successfully enable commands in {0}"
+        "disabledcommands": "<:valtdone:987760891737026620> Successfully disabled commands in {0} ",
+        "enabledcommands": "<:valtdone:987760891737026620> Successfully enable commands in {0}"
     }
 }
