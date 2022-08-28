@@ -1,5 +1,5 @@
 {
-    "InviteBOTDescription": "Do you want to test my commands?, Invite me to your server now!",
+    "InviteBOTDescription": "Voulez-vous tester mes commandes ?, Invitez-moi sur votre serveur maintenant !",
     "ping": {
         "LatencyBot": "Latence Bot :",
         "LatencyAPI": "Latence API :"
@@ -14,7 +14,7 @@
         "iconURL": "Lien de l'icône"
     },
     "config": {
-        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixLengthMax": "Le maximum préfixe caractères est `2` caractères ",
         "PrefixNew": "Nouveau préfixe :",
         "PrefixNotString": "Le préfixe ne contient que des lettres ou des symboles!",
         "LangReply": "Les langues prises en charge sont l'arabe, le turc et l'anglais.\nAidez-nous à soutenir le vôtre également sur https://crowdin.com/project/valltdiscord",
@@ -22,7 +22,7 @@
         "LangNew": "Nouveau langage :",
         "LangUnknown": "Cette langue n'est pas disponible ! aidez-nous à le rendre disponible sur https://crowdin.com/project/valltdiscord",
         "LangNotString": "Les langues ne contiennent que des lettres!",
-        "LangbotInfos": "Supported Languages"
+        "LangbotInfos": "Langues prises en charge"
     },
     "help": {
         "helpCommandUsage": "Utilisation :\n",
@@ -41,7 +41,7 @@
         }
     },
     "channels": {
-        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
         "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
         "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
         "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
