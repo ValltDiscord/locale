@@ -41,7 +41,7 @@
         }
     },
     "channels": {
-        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!`",
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
         "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
         "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
         "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
