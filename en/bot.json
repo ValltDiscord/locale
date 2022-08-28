@@ -93,5 +93,5 @@
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "Successfully disabled commands in {0} ",
         "enabledcommands": "Successfully enable commands in {0}"
-    },
+    }
 }
