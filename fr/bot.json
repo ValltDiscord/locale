@@ -46,7 +46,7 @@
         "lock": "<:valtdone:987760891737026620> {0} a été verrouillé avec succès !",
         "unlock": "<:valtdone:987760891737026620> {0} a été déverrouillé avec succès !",
         "surelock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les chaînes ?",
-        "sureunlock": ":thinking: Êtes-vous sûr de vouloir déverrouiller toutes les chaînes ?",
+        "sureunlock": ":thinking: Are you sure you want to lock channels all ?",
         "surehide": ":thinking: Êtes-vous sûr de vouloir masquer toutes les chaînes ?",
         "sureshow": ":thinking: Êtes-vous sûr de vouloir afficher toutes les chaînes ?",
         "hideall": "<:valtdone:987760891737026620> all has been successfully hidden!",
