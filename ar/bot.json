@@ -13,15 +13,15 @@
         "iconURL": "رابط الشعار"
     },
     "config": {
-        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixLengthMax": "الحد الأقصى لعدد أحرف البادئة هو \"2\" حرفًا ",
         "PrefixNew": "البادئة الجديدة:",
         "PrefixNotString": "البادئة تحتوي فقط على حروف أو رموز!",
-        "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
+        "LangReply": "اللغات المدعومة هي العربية والتركية والإنجليزية ، ساعدنا في دعم لغتك على: \nhttps://crowdin.com/project/valltdiscord",
         "LangTooLong": "اللغات تتكون من حرفين فقط! ",
         "LangNew": "اللغة الجديدة:",
         "LangUnknown": "هذه اللغة غير مدعومة! ساعدنا في دعم لغتك على: \nhttps://crowdin.com/project/valltdiscord",
         "LangNotString": "اللغات تحتوي فقط على حروف فقط!",
-        "LangbotInfos": "Supported Languages"
+        "LangbotInfos": "اللغات المدعومة"
     },
     "help": {
         "helpCommandUsage": "الاستخدام:",
@@ -31,14 +31,14 @@
         "helpPrefix": "البادئة :"
     },
     "channels": {
-        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
-        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
-        "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
-        "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
-        "surelock": ":thinking: Are you sure you want to lock channels all ?",
-        "sureunlock": ":thinking: Are you sure you want to unlock channels all ?",
-        "surehide": ":thinking: Are you sure you want to hide channels all ?",
-        "sureshow": ":thinking: Are you sure you want to show channels all ?",
+        "hide": "<:valtdone:987760891737026620> {0} تم اخفاء بنجاح!",
+        "show": "<:valtdone:987760891737026620> {0} تم اظهارة بنجاح!",
+        "lock": "<:valtdone:987760891737026620> {0} تم قفلة بنجاح!",
+        "unlock": "<:valtdone:987760891737026620> {0} تم فتحه بنجاح!",
+        "surelock": ":thinking: هل أنت متأكد أنك تريد قفل الرومات كلها؟",
+        "sureunlock": ":thinking: هل أنت متأكد أنك تريد فتح الرومات كلها؟",
+        "surehide": ":thinking: هل أنت متأكد أنك تريد اخفاء الرومات كلها؟",
+        "sureshow": ":thinking: هل أنت متأكد أنك تريد اضهار الرومات كلها؟",
         "hideall": "<:valtdone:987760891737026620> all} has been successfully hidden!",
         "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
         "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
@@ -73,16 +73,16 @@
         "ram": "الذاكرة العشوائية"
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
+        "discommands": "الأوامر معطلة في هذا الروم.",
         "setdisabledcommands": "يرجى منشن الروم لتعطيل الأوامر عليها.",
         "setenabledcommands": "يرجى منشن الروم لتشغيل الأوامر عليها.",
-        "disabledcommands": "Successfully disabled commands in {0} ",
-        "enabledcommands": "Successfully enable commands in {0}"
+        "disabledcommands": "تم تعطيل الأوامر بنجاح في {0} ",
+        "enabledcommands": "تم تشغيل الأوامر في {0}"
     },
     "permissions": {
-        "user": ":x: need {0} to use this command",
-        "bot": ":x: You need {0} to use this command",
-        "MissingPermission": "Missing Permission"
+        "user": ": x: need {0} لاستخدام هذا الأمر",
+        "bot": ": x: أنت بحاجة إلى {0} لاستخدام هذا الأمر",
+        "MissingPermission": "إذن مفقود"
     },
-    "cooldown": "`Hold on, please wait {0} seconds before reusing that command.`"
+    "cooldown": "انتظر ، يرجى الانتظار لمدة {0} ثانية قبل إعادة استخدام هذا الأمر"
 }
