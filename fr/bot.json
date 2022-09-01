@@ -1,5 +1,4 @@
 {
-    "InviteBOTDescription": "Voulez-vous tester mes commandes ?, Invitez-moi sur votre serveur maintenant !",
     "ping": {
         "LatencyBot": "Latence Bot :",
         "LatencyAPI": "Latence API :"
@@ -17,7 +16,7 @@
         "PrefixLengthMax": "Le maximum préfixe caractères est `2` caractères ",
         "PrefixNew": "Nouveau préfixe :",
         "PrefixNotString": "Le préfixe ne contient que des lettres ou des symboles!",
-        "LangReply": "Supported languages are Arabic, Turkish, English, Russian, Hindi, Greek, Dutch, Japanese, Polish, Thai, Spanish, Chinese Simplified.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
+        "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
         "LangTooLong": "Les langues ne comportent que 2 caractères !",
         "LangNew": "Nouveau langage :",
         "LangUnknown": "Cette langue n'est pas disponible ! aidez-nous à le rendre disponible sur https://crowdin.com/project/valltdiscord",
@@ -31,25 +30,16 @@
         "helpCommandPermissions": "Autorisations :",
         "helpPrefix": "Préfixe :"
     },
-    "economy": {
-        "profile": {},
-        "like": {
-            "bots": "Vous ne pouvez pas aimer les bots.",
-            "timeout": "**{0}**,(Rate limité)\n**Vous pourrez à nouveau donner des points de réputation dans {1} heures, {2} minutes et {3} secondes**",
-            "user": "**{0}**, vous pouvez représenter quelqu'un maintenant,\nmentionnez l'utilisateur que vous souhaitez liker !",
-            "done": "**🎖️ | Salut {0},{1} a aimé votre profil**"
-        }
-    },
     "channels": {
         "hide": "<:valtdone:987760891737026620> {0} a été masqué avec succès !",
         "show": "<:valtdone:987760891737026620> {0} a été affiché avec succès !",
         "lock": "<:valtdone:987760891737026620> {0} a été verrouillé avec succès !",
         "unlock": "<:valtdone:987760891737026620> {0} a été déverrouillé avec succès !",
         "surelock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les chaînes ?",
-        "sureunlock": ":thinking: Are you sure that you want to lock all channels?",
+        "sureunlock": ":thinking: Are you sure you want to unlock channels all ?",
         "surehide": ":thinking: Êtes-vous sûr de vouloir masquer toutes les chaînes ?",
         "sureshow": ":thinking: Êtes-vous sûr de vouloir afficher toutes les chaînes ?",
-        "hideall": "<:valtdone:987760891737026620> all has been successfully hidden!",
+        "hideall": "<:valtdone:987760891737026620> all} has been successfully hidden!",
         "showall": "<:valtdone:987760891737026620> tout a été affiché avec succès !",
         "lockall": "<:valtdone:987760891737026620> tout a été verrouillé avec succès !",
         "unlockall": "<:valtdone:987760891737026620> tout a été déverrouillé avec succès !",
@@ -64,8 +54,9 @@
         "HarmYourself1": "Vous ne pouvez pas",
         "HarmYourself2": "Vous-même !",
         "noBannerUser": ":x: L'utilisateur n'a pas de bannière !",
-        "noBannerYou": "You don't have a banner!",
+        "noBannerYou": "You don't have a banner",
         "noCommandAliases": "Aucun alias pour cette commande.",
+        "YouNeedVote": "",
         "botsNoBanner": "🧐 Les bots n'ont pas de bannières !",
         "onlyowner": ":x: Seul le propriétaire de ce serveur peut utiliser cette commande",
         "onlydevs": ":x : Seuls les développeurs peuvent utiliser cette commande"
@@ -81,17 +72,17 @@
         "createdAt": "Créé à",
         "ram": "Ram"
     },
-    "form": {
-        "accept": "Accepter",
-        "deny": "Refusé",
-        "open": "Terminé Accepté votre ticket, veuillez patienter",
-        "sumbit": "Merci d'avoir soumis la candidature, notre équipe vous contactera dans les plus brefs délais."
-    },
     "commands": {
         "discommands": "Les commandes sont désactivées dans ce salon.",
         "setdisabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez désactiver la commande.",
         "setenabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez activer les commandes.",
-        "disabledcommands": "<:valtdone:987760891737026620> Successfully disabled commands in {0} ",
-        "enabledcommands": "<:valtdone:987760891737026620> Successfully enable commands in {0}"
-    }
+        "disabledcommands": "Successfully disabled commands in {0} ",
+        "enabledcommands": "Successfully enable commands in {0}"
+    },
+    "permissions": {
+        "user": ":x: need {0} to use this command",
+        "bot": ":x: You need {0} to use this command",
+        "MissingPermission": "Missing Permission"
+    },
+    "cooldown": "`Hold on, please wait {0} seconds before reusing that command.`"
 }

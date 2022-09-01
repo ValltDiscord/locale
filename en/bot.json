@@ -82,7 +82,7 @@
     "permissions": {
         "user": ":x: need {0} to use this command",
         "bot": ":x: You need {0} to use this command",
-        "MissingPermission":"Missing Permission"
+        "MissingPermission": "Missing Permission"
     },
-    "cooldown":"`Hold on, please wait {0} seconds before reusing that command.`"
+    "cooldown": "`Hold on, please wait {0} seconds before reusing that command.`"
 }
