@@ -46,7 +46,7 @@
         "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
         "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
         "surelock": ":thinking: Are you sure you want to lock channels all ?",
-        "sureunlock": ":thinking: Are you sure you want to lock channels all ?",
+        "sureunlock": ":thinking: Are you sure that you want to lock all channels?",
         "surehide": ":thinking: Are you sure you want to hide channels all ?",
         "sureshow": ":thinking: Are you sure you want to show channels all ?",
         "hideall": "<:valtdone:987760891737026620> all has been successfully hidden!",
