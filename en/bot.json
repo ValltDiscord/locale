@@ -14,11 +14,11 @@
     },
     "config": {
         "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
-        "PrefixNew": "New prefix :",
+        "PrefixNew": "New prefix:",
         "PrefixNotString": "The prefix should only contain letters or symbols!",
         "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
         "LangTooLong": "Languages are only 2 characters long! ",
-        "LangNew": "New language :",
+        "LangNew": "New language:",
         "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
         "LangNotString": "Languages should only contain letters!",
         "LangbotInfos": "Supported Languages"
