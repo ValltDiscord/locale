@@ -77,12 +77,12 @@
         "setdisabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez désactiver la commande.",
         "setenabledcommands": "Veuillez mentionner le canal dans lequel vous souhaitez activer les commandes.",
         "disabledcommands": "<:valtdone:987760891737026620> Toutes les commandes ont été désactivées avec succès dans {0}",
-        "enabledcommands": "Activer avec succès les commandes dans {0}"
+        "enabledcommands": "<:valtdone:987760891737026620> Commands are successfully enabled in {0}"
     },
     "permissions": {
-        "user": ":x : besoin de {0} pour utiliser cette commande",
-        "bot": ":x: You need {0} to use this command",
-        "MissingPermission": "Missing Permission"
+        "user": "<:valltidea:987722586643378197> You need {0} to use this command ",
+        "bot": "<:valltidea:987722586643378197> You need {0} to use this command",
+        "MissingPermission": "Autorisation manquante"
     },
-    "cooldown": "`Hold on, please wait {0} seconds before reusing that command.`"
+    "cooldown": "<:valltcancelled:987760908132556810> Hold on, please wait {0} seconds before reusing this command!\n"
 }
