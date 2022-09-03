@@ -24,11 +24,11 @@
         "LangbotInfos": "Supported Languages"
     },
     "help": {
-        "helpCommandUsage": "Usage :",
-        "helpCommandExample": "Examples :",
-        "helpCommandAliases": "Aliases :",
-        "helpCommandPermissions": "Permissions :",
-        "helpPrefix": "Prefix :"
+        "helpCommandUsage": "Usage:",
+        "helpCommandExample": "Examples:",
+        "helpCommandAliases": "Aliases:",
+        "helpCommandPermissions": "Permissions:",
+        "helpPrefix": "Prefix:"
     },
     "channels": {
         "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
