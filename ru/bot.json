@@ -1,16 +1,16 @@
 {
     "ping": {
-        "LatencyBot": "Bot latency :",
-        "LatencyAPI": "API latency :"
+        "LatencyBot": "Задержка бота:",
+        "LatencyAPI": "Задержка API:"
     },
     "user": {
-        "bannerURL": "Banner URL",
-        "avatarURL": "Avatar URL",
-        "blacklistBanWarning": "You are blacklisted, if you think you got blacklisted for no reason contact @Anas#4254",
-        "vote": "Vote for our bot to encourage us to continue"
+        "bannerURL": "URL баннера",
+        "avatarURL": "URL аватара",
+        "blacklistBanWarning": "Вы попали в черный список, если вы считаете, что попали в черный список без причины, напишите @Anas#4254",
+        "vote": "Проголосуйте за нашего бота, чтобы побудить нас продолжить"
     },
     "guild": {
-        "iconURL": "Icon URL"
+        "iconURL": "URL-адрес значка"
     },
     "config": {
         "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
@@ -77,12 +77,12 @@
         "setdisabledcommands": "Please mention the channel you want to disable command in.",
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "<:valtdone:987760891737026620> All commands has been disabled successfully in {0} ",
-        "enabledcommands": "Successfully enable commands in {0}"
+        "enabledcommands": "<:valtdone:987760891737026620> Commands are successfully enabled in {0}"
     },
     "permissions": {
-        "user": ":x: need {0} to use this command",
-        "bot": ":x: You need {0} to use this command",
+        "user": "<:valltidea:987722586643378197> You need {0} to use this command ",
+        "bot": "<:valltidea:987722586643378197> You need {0} to use this command",
         "MissingPermission": "Missing Permission"
     },
-    "cooldown": "`Hold on, please wait {0} seconds before reusing that command.`"
+    "cooldown": "<:valltcancelled:987760908132556810> Hold on, please wait {0} seconds before reusing this command!\n"
 }
