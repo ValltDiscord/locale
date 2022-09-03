@@ -69,7 +69,7 @@
 	"Auto Reaction": "الأوتو رياكشن",
 	"Forms": "نماذج",
 	"More": "المزيد",
-	"unsaved_changes_alert.message": "لديك تغييرات لم تقم بحفظها",
+	"unsaved_changes_alert.message": "You have unsaved changes!",
 	"unsaved_changes_alert.save": "حفظ",
 	"unsaved_changes_alert.cancel": "إلغاء",
 	"add_a_channel": "إضافة روم"
