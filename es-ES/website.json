@@ -69,7 +69,7 @@
 	"Auto Reaction": "Reacción automática",
 	"Forms": "formularios",
 	"More": "Más",
-	"unsaved_changes_alert.message": "Usted tiene cambios no guardados",
+	"unsaved_changes_alert.message": "You have unsaved changes!",
 	"unsaved_changes_alert.save": "Ahorrar",
 	"unsaved_changes_alert.cancel": "Cancelar",
 	"add_a_channel": "Agregar un canal"
