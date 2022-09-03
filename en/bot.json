@@ -73,7 +73,7 @@
         "ram": "Ram"
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
+        "discommands": "Commands are disabled in this channel.",
         "setdisabledcommands": "Please mention the channel you want to disable command in.",
         "setenabledcommands": "Please mention the channel you want to enable commands in.",
         "disabledcommands": "<:valtdone:987760891737026620> All commands has been disabled successfully in {0} ",
