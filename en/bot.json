@@ -47,7 +47,7 @@
         "no": "No"
     },
     "errors": {
-        "Message": "An error occurred :",
+        "Message": "An error occurred:",
         "UserNotFound": "I couldn't find that user!",
         "ChannelNotFound": "I couldn't find that channel!",
         "RoleNotFound": "I couldn't find that role!",
