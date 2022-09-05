@@ -56,7 +56,7 @@
         "noBannerUser": ":x: L'utilisateur n'a pas de bannière !",
         "noBannerYou": "<:valltcancelled:987760908132556810> Désolé, vous n'avez pas de bannière !",
         "noCommandAliases": "Aucun alias pour cette commande.",
-        "YouNeedVote": "",
+        "YouNeedVote": "<:valltidea:987722586643378197> You need vote to use this command",
         "botsNoBanner": "🧐 Les bots n'ont pas de bannières !",
         "onlyowner": ":x: Seul le propriétaire de ce serveur peut utiliser cette commande",
         "onlydevs": ":x : Seuls les développeurs peuvent utiliser cette commande"
