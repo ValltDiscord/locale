@@ -82,7 +82,7 @@
     "permissions": {
         "user": "<:valltidea:987722586643378197> You need {0} to use this command ",
         "bot": "<:valltidea:987722586643378197> You need {0} to use this command",
-        "MissingPermission": "Missing Permission"
+        "MissingPermission": "Missing Permission!"
     },
     "cooldown": "<:valltcancelled:987760908132556810> Hold on, please wait {0} seconds before reusing this command!\n"
 }
