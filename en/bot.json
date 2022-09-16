@@ -1,6 +1,6 @@
 {
     "ping": {
-        "LatencyBot": "Bot latency :",
+        "LatencyBot": "Bot latency : ",
         "LatencyAPI": "API latency :"
     },
     "user": {
