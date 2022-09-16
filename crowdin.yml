@@ -1,8 +1,1 @@
-pull_request_title: "\UF09F8E89ŸŽ‰ chore(strings): new crowdin translat"
-files:
-  - source: /en/
-    ignore:
-      - README.md
-      - LICENSE
-      - .gitignore
-    translation: '%file_name%.%file_extension%'
+files: []
