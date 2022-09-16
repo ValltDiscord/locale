@@ -1,6 +1,6 @@
 {
     "ping": {
-        "LatencyBot": "Bot latency :",
+        "LatencyBot": "Bot latency : ",
         "LatencyAPI": "API latency :"
     },
     "user": {
@@ -57,7 +57,7 @@
         "noBannerYou": "<:valltcancelled:987760908132556810> Sorry, you don't have a banner!",
         "noCommandAliases": "No aliases for this command.",
         "YouNeedVote": "<:valltidea:987722586643378197> You need vote to use this command",
-        "botsNoBanner": "🧐 Bots don't have banners!",
+        "botsNoBanner": "🧐 Bots don't have banners!?",
         "onlyowner": ":x: Only the ownership of this server can use this command",
         "onlydevs": ":x: Only devs can use this command"
     },
