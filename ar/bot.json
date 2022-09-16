@@ -1,0 +1,88 @@
+{
+    "ping": {
+        "LatencyBot": "سرعة استجابة البوت: ",
+        "LatencyAPI": "API latency :"
+    },
+    "user": {
+        "bannerURL": "Banner URL",
+        "avatarURL": "Avatar URL",
+        "blacklistBanWarning": "You are blacklisted, if you think you got blacklisted for no reason contact @Anas#4254",
+        "vote": "Vote for our bot to encourage us to continue"
+    },
+    "guild": {
+        "iconURL": "Icon URL"
+    },
+    "config": {
+        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
+        "PrefixNew": "New prefix :",
+        "PrefixNotString": "The prefix should only contain letters or symbols!",
+        "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Languages are only 2 characters long! ",
+        "LangNew": "New language :",
+        "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
+        "LangNotString": "Languages should only contain letters!",
+        "LangbotInfos": "Supported Languages"
+    },
+    "help": {
+        "helpCommandUsage": "Usage :",
+        "helpCommandExample": "Examples :",
+        "helpCommandAliases": "Aliases :",
+        "helpCommandPermissions": "Permissions :",
+        "helpPrefix": "Prefix :"
+    },
+    "channels": {
+        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
+        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
+        "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
+        "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
+        "surelock": ":thinking: Are you sure you want to lock channels all ?",
+        "sureunlock": ":thinking: Are you sure that you want to lock all channels?",
+        "surehide": ":thinking: Are you sure you want to hide channels all ?",
+        "sureshow": ":thinking: Are you sure you want to show channels all ?",
+        "hideall": "<:valtdone:987760891737026620> All channels has been successfully hidden!",
+        "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
+        "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
+        "unlockall": "<:valtdone:987760891737026620> all has been successfully unlocked!",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "errors": {
+        "Message": "An error occurred :",
+        "UserNotFound": "I couldn't find that user!",
+        "ChannelNotFound": "I couldn't find that channel!",
+        "RoleNotFound": "I couldn't find that role!",
+        "HarmYourself1": "You can't",
+        "HarmYourself2": "yourself!",
+        "noBannerUser": ":x: The user does not have a banner!",
+        "noBannerYou": "<:valltcancelled:987760908132556810> Sorry, you don't have a banner!",
+        "noCommandAliases": "No aliases for this command.",
+        "YouNeedVote": "<:valltidea:987722586643378197> You need vote to use this command",
+        "botsNoBanner": "🧐 Bots don't have banners!",
+        "onlyowner": ":x: Only the ownership of this server can use this command",
+        "onlydevs": ":x: Only devs can use this command"
+    },
+    "emojis": {
+        "reply": "Please provide the emojis!"
+    },
+    "botinfo": {
+        "servers": "Servers",
+        "users": "Users",
+        "channels": "Channels",
+        "uptime": "Uptime",
+        "createdAt": "CreatedAt",
+        "ram": "Ram"
+    },
+    "commands": {
+        "discommands": "Commands are disabled in this room.",
+        "setdisabledcommands": "Please mention the channel you want to disable command in.",
+        "setenabledcommands": "Please mention the channel you want to enable commands in.",
+        "disabledcommands": "<:valtdone:987760891737026620> All commands has been disabled successfully in {0} ",
+        "enabledcommands": "<:valtdone:987760891737026620> Commands are successfully enabled in {0}"
+    },
+    "permissions": {
+        "user": "<:valltidea:987722586643378197> You need {0} to use this command ",
+        "bot": "<:valltidea:987722586643378197> You need {0} to use this command",
+        "MissingPermission": "Missing Permission"
+    },
+    "cooldown": "<:valltcancelled:987760908132556810> Hold on, please wait {0} seconds before reusing this command!\n"
+}
