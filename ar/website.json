@@ -1,76 +1,0 @@
-{
-	"nav.support": "الدعم الفني",
-	"hero.title": "أصبحت إدارة سيرفرك أسهل الآن.",
-	"hero.description": "أنشئ سيرفر ديسكورد إحترافي و حسّنه بالعديد من  المزايا الرائعة.",
-	"try.title": "جربه مجاناً!",
-	"try.description": "أضف Vallt إلى سيرفرك الآن!",
-	"features.1.title": "قابل للتخصيص",
-	"features.1.description": "يمكنك تغيير كل جزء من Vallt، اللغة، البريفكس، الخ...",
-	"features.2.title": "رحب بأعضاء سيرفرك",
-	"features.2.description": "قُل مرحباً  👋! للأعضاء الجُدد بسيرفرك عند إنضمامهم.",
-	"features.3.title": "متعدد اللغات",
-	"features.3.description": "Vallt يدعم 13 لغة مختلفة حتى الآن.",
-	"features.4.title": "الأوتو رياكشن",
-	"features.4.description": "إضافة رياكشنات للرسائل تلقائياً عند إرسالها من الأعضاء.",
-	"features.5.title": "نماذج",
-	"features.5.description": "اسمح لأعضائك بملء النماذج للاتصال بك أو التقديم للانضمام إلى الادارة.",
-	"features.6.title": "الحماية",
-	"features.6.description": "قم بحماية سيرفرك بمميزات مثل مانع الروابط ومكافحة الغزو و مانع السبام والعديد من المزايا الأخرى.",
-	"footer.description": "بوت ديسكورد احترافي يجعل مجتمعك رائعًا.",
-	"commands.description": "قائمة بجميع أوامر Vallt",
-	"commands.search": "إبحث عن أمر...",
-	"Add to Discord": "أضف إلى Discord",
-	"Easy to use": "سهل الاستخدام",
-	"Clean Dashboard UI": "لوحة تحكم إحترافية",
-	"Soon": "قريبا",
-	"Servers": "السيرفرات",
-	"Users": "المستخدمون",
-	"Commands": "الأوامر",
-	"Available Commands": "الأوامر المتاحة",
-	"Terms of Use": "شروط الاستخدام",
-	"Privacy Policy": "سياسة الخصوصية",
-	"Discord Server": "الدعم الفني",
-	"Important Links": "روابط هامة",
-	"Login with Discord": "تسجيل الدخول بـ  Discord",
-	"Prefix": "البادئة",
-	"Language": "اللغة",
-	"Quick Actions": "إجراءات سريعة",
-	"Dashboard": "لوحة التحكم",
-	"Settings": "خصائص البوت",
-	"Others": "إعدادات إضافية",
-	"Logout": "تسجيل الخروج",
-	"Go to Dashboard": "الذهاب للوحة التحكم",
-	"inputs.select.no_select": "لم يتم التحديد حتى الآن",
-	"logout_modal.content": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
-	"logout_modal.cancel": "إلغاء",
-	"logout_modal.continue": "نعم ، سجل خروجي.",
-	"dashboard.servers_list.members_count": "عضو",
-	"dashboard.servers_list.invite_bot": "إضافة البوت",
-	"dashboard.overview.total_members": "مجموع الأعضاء",
-	"dashboard.overview.boosts_count": "عدد البوستات",
-	"dashboard.overview.channels_count": "عدد الرومات الصوتية/الكتابية",
-	"dashboard.config.access_users": "من يمكنه دخول لوحة التحكم؟",
-	"dashboard.config.access_users_ph": "من يمتلكون صلاحية Administrator",
-	"dashboard.config.reset_settings": "إستعادة الإعدادات الإفتراضية",
-	"dashboard.welcome.message_content": "محتوى الرسالة",
-	"dashboard.welcome.welcome_channel": "روم الترحيب",
-	"dashboard.autoreaction.empty_title": "لم يتم إضافة الأوتو رياكشن",
-	"dashboard.autoreaction.empty_description": "دع Vallt يتفاعل مع أعضاء مجتمعك 😉",
-	"dashboard.autoreaction.c_limit_reached": "لا يمكنك إضافة المزيد من الرومات، جرب Vallt بلس الآن.",
-	"dashboard.autoreaction.e_limit_reached": "لا يمكنك إضافة المزيد من الإيموجيات، جرب Vallt بلس الآن.",
-	"dashboard.autoreaction.channel_not_found": "الروم غير موجود",
-	"dashboard.autoreaction.channel_not_selected": "لم يتم تحديد روم",
-	"dashboard.more.emojis_channel": "روم الإيموجيات",
-	"dashboard.more.tiktok_channel": "روم التيك توك",
-	"dashboard.more.instagram_channel": "روم الإنستغرام",
-	"Overview": "نظرة عامة",
-	"Configuration": "الإعدادات",
-	"Welcome": "الترحيب",
-	"Auto Reaction": "الأوتو رياكشن",
-	"Forms": "نماذج",
-	"More": "المزيد",
-	"unsaved_changes_alert.message": "You have unsaved changes!",
-	"unsaved_changes_alert.save": "حفظ",
-	"unsaved_changes_alert.cancel": "إلغاء",
-	"add_a_channel": "إضافة روم"
-}
