@@ -6,11 +6,12 @@
     "user": {
         "bannerURL": "Banner URL",
         "avatarURL": "Avatar URL",
-        "blacklistBanWarning": "You are blacklisted, if you think you got blacklisted for no reason contact @Anas#4254",
+        "blacklistUser": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777",
         "vote": "Vote for our bot to encourage us to continue"
     },
     "guild": {
-        "iconURL": "Icon URL"
+        "iconURL": "Icon URL",
+        "blacklistServer": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777"
     },
     "config": {
         "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
