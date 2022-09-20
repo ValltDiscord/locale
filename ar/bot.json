@@ -6,11 +6,12 @@
     "user": {
         "bannerURL": "رابط البنر",
         "avatarURL": "رابط الافتار",
-        "blacklistBanWarning": "انت في القائمة السوداء, اذا كنت تعتقد أنك قد تم إدراجك في القائمة السوداء دون سبب تواصل مع @ETO#7777",
+        "blacklistUser": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777",
         "vote": "صوّت للبوت لتشجيعنا على الاستمرار"
     },
     "guild": {
-        "iconURL": "رابط صورة السيرفر"
+        "iconURL": "رابط صورة السيرفر",
+        "blacklistServer": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777"
     },
     "config": {
         "PrefixLengthMax": "الحد الأقصى لعدد أحرف البرفيكس هو `2` حرفًا ",
