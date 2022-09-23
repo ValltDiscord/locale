@@ -1,11 +1,11 @@
 {
     "ping": {
-        "LatencyBot": "Bot latency : ",
-        "LatencyAPI": "API latency :"
+        "LatencyBot": "Bot gecikmesi : ",
+        "LatencyAPI": "API gecikmesi:"
     },
     "user": {
-        "bannerURL": "Banner URL",
-        "avatarURL": "Avatar URL",
+        "bannerURL": "Başlık URL'si",
+        "avatarURL": "Avatar URL'si",
         "blacklistUser": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777",
         "vote": "Vote for our bot to encourage us to continue"
     },
