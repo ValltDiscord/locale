@@ -6,84 +6,84 @@
     "user": {
         "bannerURL": "Başlık URL'si",
         "avatarURL": "Avatar URL'si",
-        "blacklistUser": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777",
-        "vote": "Vote for our bot to encourage us to continue"
+        "blacklistUser": "Kara listeye alındınız, sebepsiz yere kara listeye alındığınızı düşünüyorsanız @ETO#7777 ile iletişime geçin",
+        "vote": "Devam etmemizi teşvik etmek için botumuza oy verin"
     },
     "guild": {
-        "iconURL": "Icon URL",
-        "blacklistServer": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777"
+        "iconURL": "Simge URL'i",
+        "blacklistServer": "Kara listeye alındınız, sebepsiz yere kara listeye alındığınızı düşünüyorsanız @ETO#7777 ile iletişime geçin"
     },
     "config": {
-        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
-        "PrefixNew": "New prefix :",
-        "PrefixNotString": "The prefix should only contain letters or symbols!",
-        "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
-        "LangTooLong": "Languages are only 2 characters long! ",
-        "LangNew": "New language :",
-        "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
-        "LangNotString": "Languages should only contain letters!",
-        "LangbotInfos": "Supported Languages"
+        "PrefixLengthMax": "Maksimum önek karakteri `2` karakterdir ",
+        "PrefixNew": "Yeni önek:",
+        "PrefixNotString": "Ön ek sadece harf veya sembol içermelidir!",
+        "LangReply": "Desteklenen diller Arapça, Türkçe, İngilizce'dir.\nhttps://crowdin.com/project/valltdiscord adresinde sizinkini de desteklememize yardımcı olun",
+        "LangTooLong": "Diller sadece 2 karakter uzunluğundadır! ",
+        "LangNew": "Yeni dil :",
+        "LangUnknown": "Bu dil mevcut değil! https://crowdin.com/project/valltdiscord adresinde kullanıma sunmamıza yardımcı olun",
+        "LangNotString": "Diller sadece harf içerir!",
+        "LangbotInfos": "Desteklenen Diller"
     },
     "help": {
-        "helpCommandUsage": "Usage :",
-        "helpCommandExample": "Examples :",
-        "helpCommandAliases": "Aliases :",
-        "helpCommandPermissions": "Permissions :",
-        "helpPrefix": "Prefix :"
+        "helpCommandUsage": "Kullanım:",
+        "helpCommandExample": "Örnekler :",
+        "helpCommandAliases": "Takma adlar:",
+        "helpCommandPermissions": "İzinler :",
+        "helpPrefix": "Ön ek :"
     },
     "channels": {
-        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
-        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
-        "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
-        "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
-        "surelock": ":thinking: Are you sure you want to lock channels all ?",
-        "sureunlock": ":thinking: Are you sure that you want to lock all channels?",
-        "surehide": ":thinking: Are you sure you want to hide channels all ?",
-        "sureshow": ":thinking: Are you sure you want to show channels all ?",
-        "hideall": "<:valtdone:987760891737026620> All channels has been successfully hidden!",
-        "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
-        "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
-        "unlockall": "<:valtdone:987760891737026620> all has been successfully unlocked!",
-        "yes": "Yes",
-        "no": "No"
+        "hide": "<:valtdone:987760891737026620> {0} başarıyla gizlendi!",
+        "show": "<:valtdone:987760891737026620> {0} başarıyla gösterildi!",
+        "lock": "<:valtdone:987760891737026620> {0} başarıyla kilitlendi!",
+        "unlock": "<:valtdone:987760891737026620> {0} kilidi başarıyla açıldı!",
+        "surelock": ":thinking: Tüm kanalları kilitlemek istediğinizden emin misiniz?",
+        "sureunlock": ":thinking: Tüm kanalları kilitlemek istediğinizden emin misiniz?",
+        "surehide": ":thinking: Tüm kanalları gizlemek istediğinizden emin misiniz?",
+        "sureshow": ":thinking: Tüm kanalları göstermek istediğinizden emin misiniz?",
+        "hideall": "<:valtdone:987760891737026620> Tüm kanallar başarıyla gizlendi!",
+        "showall": "<:valtdone:987760891737026620> hepsi başarıyla gösterildi!",
+        "lockall": "<:valtdone:987760891737026620> hepsi başarıyla kilitlendi!",
+        "unlockall": "<:valtdone:987760891737026620> hepsinin kilidi başarıyla açıldı!",
+        "yes": "Evet",
+        "no": "Hayır"
     },
     "errors": {
-        "Message": "An error occurred :",
-        "UserNotFound": "I couldn't find that user!",
-        "ChannelNotFound": "I couldn't find that channel!",
-        "RoleNotFound": "I couldn't find that role!",
-        "HarmYourself1": "You can't",
-        "HarmYourself2": "yourself!",
-        "noBannerUser": ":x: The user does not have a banner!",
-        "noBannerYou": "<:valltcancelled:987760908132556810> Sorry, you don't have a banner!",
-        "noCommandAliases": "No aliases for this command.",
-        "YouNeedVote": "<:valltidea:987722586643378197> You need vote to use this command",
-        "botsNoBanner": "🧐 Bots don't have banners!?",
-        "onlyowner": ":x: Only the ownership of this server can use this command",
-        "onlydevs": ":x: Only devs can use this command"
+        "Message": "Bir hata oluştu :",
+        "UserNotFound": "Bu kullanıcıyı bulamadım!",
+        "ChannelNotFound": "Bu kanalı bulamadım!",
+        "RoleNotFound": "Bu rolü bulamadım!",
+        "HarmYourself1": "Yapamazsın",
+        "HarmYourself2": "kendin!",
+        "noBannerUser": ":x: Kullanıcının bir başlığı yok!",
+        "noBannerYou": "<:valltcancelled:987760908132556810> Üzgünüz, bir banner'ınız yok!",
+        "noCommandAliases": "Bu komut için takma adlar yok.",
+        "YouNeedVote": "<:valltidea:987722586643378197> Bu komutu kullanmak için oy vermeniz gerekiyor",
+        "botsNoBanner": "🧐 Botların başlıkları yoktur!?",
+        "onlyowner": ":x: Sadece sunucu sahibi bu komutu kullanabilir",
+        "onlydevs": ":x: Bu komutu yalnızca geliştiriciler kullanabilir"
     },
     "emojis": {
-        "reply": "Please provide the emojis!"
+        "reply": "Lütfen emojileri sağlayın!"
     },
     "botinfo": {
-        "servers": "Servers",
-        "users": "Users",
-        "channels": "Channels",
-        "uptime": "Uptime",
-        "createdAt": "CreatedAt",
-        "ram": "Ram"
+        "servers": "Sunucular",
+        "users": "Kullanıcılar",
+        "channels": "Kanallar",
+        "uptime": "Çalışma süresi",
+        "createdAt": "Oluşturuldu",
+        "ram": "Veri deposu"
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
-        "setdisabledcommands": "Please mention the channel you want to disable command in.",
-        "setenabledcommands": "Please mention the channel you want to enable commands in.",
-        "disabledcommands": "<:valtdone:987760891737026620> All commands has been disabled successfully in {0} ",
-        "enabledcommands": "<:valtdone:987760891737026620> Commands are successfully enabled in {0}"
+        "discommands": "Bu odada komutlar devre dışıdır.",
+        "setdisabledcommands": "Lütfen komutu devre dışı bırakmak istediğiniz kanalı belirtin.",
+        "setenabledcommands": "Lütfen komutları etkinleştirmek istediğiniz kanalı belirtin.",
+        "disabledcommands": "<:valtdone:987760891737026620> Tüm komutlar {0} içinde başarıyla devre dışı bırakıldı ",
+        "enabledcommands": "<:valtdone:987760891737026620> Komutlar {0} içinde başarıyla etkinleştirildi"
     },
     "permissions": {
-        "user": "<:valltidea:987722586643378197> You need {0} to use this command ",
-        "bot": "<:valltidea:987722586643378197> You need {0} to use this command",
-        "MissingPermission": "Missing Permission"
+        "user": "<:valltidea:987722586643378197> Bu komutu kullanmak için {0}'e ihtiyacınız var ",
+        "bot": "<:valltidea:987722586643378197> Bu komutu kullanmak için {0}'e ihtiyacınız var",
+        "MissingPermission": "Eksik İzin"
     },
-    "cooldown": "<:valltcancelled:987760908132556810> Hold on, please wait {0} seconds before reusing this command!\n"
+    "cooldown": "<:valltcancelled:987760908132556810> Bekleyin, bu komutu tekrar kullanmadan önce lütfen {0} saniye bekleyin!\n"
 }
