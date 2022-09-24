@@ -1,22 +1,22 @@
 {
     "ping": {
-        "LatencyBot": "Bot latency : ",
-        "LatencyAPI": "API latency :"
+        "LatencyBot": "Latence du Bot : ",
+        "LatencyAPI": "Latence API :"
     },
     "user": {
-        "bannerURL": "Banner URL",
-        "avatarURL": "Avatar URL",
-        "blacklistUser": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777",
-        "vote": "Vote for our bot to encourage us to continue"
+        "bannerURL": "Lien de la bannière",
+        "avatarURL": "Lien d’image",
+        "blacklistUser": "Vous êtes sur liste noire, si vous pensez avoir été mis sur liste noire sans raison, contactez @Anas#7777",
+        "vote": "Votez à notre bot pour nous encourager"
     },
     "guild": {
-        "iconURL": "Icon URL",
-        "blacklistServer": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777"
+        "iconURL": "Lien de l'icône",
+        "blacklistServer": "Vous êtes sur liste noire, si vous pensez avoir été mis sur liste noire sans raison, contactez @Anas#7777"
     },
     "config": {
-        "PrefixLengthMax": "Maximum prefix characters is `2` characters ",
-        "PrefixNew": "New prefix :",
-        "PrefixNotString": "The prefix should only contain letters or symbols!",
+        "PrefixLengthMax": "Le maximum préfixe caractères est `2` caractères ",
+        "PrefixNew": "Nouveau préfixe :",
+        "PrefixNotString": "Le préfixe ne contient que des lettres ou des symboles!",
         "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
         "LangTooLong": "Languages are only 2 characters long! ",
         "LangNew": "New language :",
