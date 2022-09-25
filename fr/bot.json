@@ -17,73 +17,73 @@
         "PrefixLengthMax": "Le maximum préfixe caractères est `2` caractères ",
         "PrefixNew": "Nouveau préfixe :",
         "PrefixNotString": "Le préfixe ne contient que des lettres ou des symboles!",
-        "LangReply": "Supported languages are Arabic, Turkish, English.\nHelp us to support yours too at https://crowdin.com/project/valltdiscord",
-        "LangTooLong": "Languages are only 2 characters long! ",
-        "LangNew": "New language :",
-        "LangUnknown": "This language is not available! help us to make it available at https://crowdin.com/project/valltdiscord",
-        "LangNotString": "Languages should only contain letters!",
-        "LangbotInfos": "Supported Languages"
+        "LangReply": "Les langues prises en charge sont l'arabe, le turc et l'anglais, aidez-nous à prendre en charge la vôtre sur https://crowdin.com/project/valltdiscord",
+        "LangTooLong": "Les langues ne comportent que 2 caractères! ",
+        "LangNew": "Nouvelle langue:",
+        "LangUnknown": "Cette langue n'est pas disponible ! aidez-nous à le rendre disponible sur https://crowdin.com/project/valltdiscord",
+        "LangNotString": "Les langues ne contiennent que des lettres!",
+        "LangbotInfos": "Langues prises en charge"
     },
     "help": {
-        "helpCommandUsage": "Usage :",
-        "helpCommandExample": "Examples :",
-        "helpCommandAliases": "Aliases :",
-        "helpCommandPermissions": "Permissions :",
-        "helpPrefix": "Prefix :"
+        "helpCommandUsage": "Utilisation :\n",
+        "helpCommandExample": "Exemples :",
+        "helpCommandAliases": "Alias :\n",
+        "helpCommandPermissions": "Autorisations :",
+        "helpPrefix": "Préfixe :"
     },
     "channels": {
-        "hide": "<:valtdone:987760891737026620> {0} has been successfully hidden!",
-        "show": "<:valtdone:987760891737026620> {0} has been successfully shown!",
-        "lock": "<:valtdone:987760891737026620> {0} has been successfully locked!",
-        "unlock": "<:valtdone:987760891737026620> {0} has been successfully unlocked!",
-        "surelock": ":thinking: Are you sure you want to lock channels all ?",
-        "sureunlock": ":thinking: Are you sure that you want to lock all channels?",
-        "surehide": ":thinking: Are you sure you want to hide channels all ?",
-        "sureshow": ":thinking: Are you sure you want to show channels all ?",
-        "hideall": "<:valtdone:987760891737026620> All channels has been successfully hidden!",
-        "showall": "<:valtdone:987760891737026620> all has been successfully shown!",
-        "lockall": "<:valtdone:987760891737026620> all has been successfully locked!",
-        "unlockall": "<:valtdone:987760891737026620> all has been successfully unlocked!",
-        "yes": "Yes",
-        "no": "No"
+        "hide": "<:valtdone:987760891737026620> {0} a été masqué avec succès !",
+        "show": "<:valtdone:987760891737026620> {0} a été affiché avec succès !",
+        "lock": "<:valtdone:987760891737026620> {0} a été verrouillé avec succès !",
+        "unlock": "<:valtdone:987760891737026620> tout a été déverrouillé avec succès !",
+        "surelock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les salons ?",
+        "sureunlock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les salons?",
+        "surehide": ":thinking: Êtes-vous sûr de vouloir masquer toutes les salon ?",
+        "sureshow": ":thinking: Êtes-vous sûr de vouloir afficher toutes les salons ?",
+        "hideall": "<:valtdone:987760891737026620> Tous les salons ont été masqués avec succès !",
+        "showall": "<:valtdone:987760891737026620> tout a été affiché avec succès !",
+        "lockall": "<:valtdone:987760891737026620> tout a été verrouillé avec succès !",
+        "unlockall": "<:valtdone:987760891737026620> tout a été déverrouillé avec succès !",
+        "yes": "Oui",
+        "no": "Non"
     },
     "errors": {
-        "Message": "An error occurred :",
-        "UserNotFound": "I couldn't find that user!",
-        "ChannelNotFound": "I couldn't find that channel!",
-        "RoleNotFound": "I couldn't find that role!",
-        "HarmYourself1": "You can't",
-        "HarmYourself2": "yourself!",
-        "noBannerUser": ":x: The user does not have a banner!",
-        "noBannerYou": "<:valltcancelled:987760908132556810> Sorry, you don't have a banner!",
-        "noCommandAliases": "No aliases for this command.",
-        "YouNeedVote": "<:valltidea:987722586643378197> You need vote to use this command",
-        "botsNoBanner": "🧐 Bots don't have banners!?",
-        "onlyowner": ":x: Only the ownership of this server can use this command",
-        "onlydevs": ":x: Only devs can use this command"
+        "Message": "Une erreur s'est produite :",
+        "UserNotFound": "Je peux pas trouvé cet utilisateur !",
+        "ChannelNotFound": "Je peux pas trouvé ce salon !",
+        "RoleNotFound": "Je n'ai pas trouvé ce rôle!",
+        "HarmYourself1": "Vous ne pouvez pas",
+        "HarmYourself2": "Vous-même !",
+        "noBannerUser": ":x: L'utilisateur n'a pas de bannière !",
+        "noBannerYou": "<:valltcancelled:987760908132556810> Désolé, vous n'avez pas de bannière !",
+        "noCommandAliases": "Aucun alias pour cette commande.",
+        "YouNeedVote": "<:valltidea:987722586643378197> Vous devez voter pour utiliser cette commande",
+        "botsNoBanner": "🧐 Les bots n'ont pas de bannière!?",
+        "onlyowner": ":x : Seul le propriétaire de ce serveur peut utiliser cette commande",
+        "onlydevs": ":x : Seuls les développeurs peuvent utiliser cette commande"
     },
     "emojis": {
-        "reply": "Please provide the emojis!"
+        "reply": "Veuillez choisir les emojis !"
     },
     "botinfo": {
-        "servers": "Servers",
-        "users": "Users",
-        "channels": "Channels",
+        "servers": "Les serveurs",
+        "users": "Utilisateurs",
+        "channels": "Les salon",
         "uptime": "Uptime",
-        "createdAt": "CreatedAt",
+        "createdAt": "Créé à",
         "ram": "Ram"
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
-        "setdisabledcommands": "Please mention the channel you want to disable command in.",
-        "setenabledcommands": "Please mention the channel you want to enable commands in.",
-        "disabledcommands": "<:valtdone:987760891737026620> All commands has been disabled successfully in {0} ",
-        "enabledcommands": "<:valtdone:987760891737026620> Commands are successfully enabled in {0}"
+        "discommands": "Les commandes sont désactivées dans ce salon.",
+        "setdisabledcommands": "Veuillez mentionner le salon dans lequel vous souhaitez désactiver la commande.",
+        "setenabledcommands": "Veuillez mentionner le salon dans lequel vous souhaitez activer la commande.",
+        "disabledcommands": "<:valtdone:987760891737026620> Toutes les commandes ont été désactivées avec succès dans {0}",
+        "enabledcommands": "<:valtdone:987760891737026620> Les commandes sont activées avec succès dans {0}"
     },
     "permissions": {
-        "user": "<:valltidea:987722586643378197> You need {0} to use this command ",
-        "bot": "<:valltidea:987722586643378197> You need {0} to use this command",
-        "MissingPermission": "Missing Permission"
+        "user": "<:valltidea:987722586643378197> Vous avez besoin de {0} pour utiliser cette commande",
+        "bot": "<:valltidea:987722586643378197> Vous avez besoin de {0} pour utiliser cette commande",
+        "MissingPermission": "Autorisation manquante"
     },
-    "cooldown": "<:valltcancelled:987760908132556810> Hold on, please wait {0} seconds before reusing this command!\n"
+    "cooldown": "<:valltcancelled:987760908132556810> Attendez, veuillez patienter {0} secondes avant de réutiliser cette commande !"
 }
