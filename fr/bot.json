@@ -35,7 +35,7 @@
         "hide": "<:valtdone:987760891737026620> {0} a été masqué avec succès !",
         "show": "<:valtdone:987760891737026620> {0} a été affiché avec succès !",
         "lock": "<:valtdone:987760891737026620> {0} a été verrouillé avec succès !",
-        "unlock": "<:valtdone:987760891737026620> tout a été déverrouillé avec succès !",
+        "unlock": "<:valtdone:987760891737026620> {0} a été déverrouillé avec succès !",
         "surelock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les salons ?",
         "sureunlock": ":thinking: Êtes-vous sûr de vouloir verrouiller toutes les salons?",
         "surehide": ":thinking: Êtes-vous sûr de vouloir masquer toutes les salon ?",
