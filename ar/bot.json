@@ -6,12 +6,12 @@
     "user": {
         "bannerURL": "رابط البنر",
         "avatarURL": "رابط الافتار",
-        "blacklistUser": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777",
+        "blacklistUser": "انت في القائمة السوداء, اذا كنت تعتقد أنك قد تم إدراجك في القائمة السوداء دون سبب تواصل مع @ETO#7777",
         "vote": "صوّت للبوت لتشجيعنا على الاستمرار"
     },
     "guild": {
         "iconURL": "رابط صورة السيرفر",
-        "blacklistServer": "You are blacklisted, if you think you got blacklisted for no reason contact @ETO#7777"
+        "blacklistServer": "انت في القائمة السوداء, اذا كنت تعتقد أنك قد تم إدراجك في القائمة السوداء دون سبب تواصل مع @ETO#7777"
     },
     "config": {
         "PrefixLengthMax": "الحد الأقصى لعدد أحرف البرفيكس هو `2` حرفًا ",
@@ -67,17 +67,17 @@
     },
     "botinfo": {
         "servers": "السيرفرات",
-        "users": "Users",
-        "channels": "Channels",
-        "uptime": "Uptime",
-        "createdAt": "CreatedAt",
-        "ram": "Ram"
+        "users": "المستخدمون",
+        "channels": "الرومات",
+        "uptime": "مدة التشغيل",
+        "createdAt": "أنشئت في",
+        "ram": "الرامات "
     },
     "commands": {
-        "discommands": "Commands are disabled in this room.",
-        "setdisabledcommands": "Please mention the channel you want to disable command in.",
-        "setenabledcommands": "Please mention the channel you want to enable commands in.",
-        "disabledcommands": "<:valtdone:987760891737026620> All commands has been disabled successfully in {0} ",
+        "discommands": "الأوامر معطلة في هذا الروم.",
+        "setdisabledcommands": "يرجى منشن الروم لتعطيل الأوامر عليها.",
+        "setenabledcommands": "يرجى منشن الروم لتشغيل الأوامر عليها.",
+        "disabledcommands": "<:valtdone:987760891737026620> تم تعطيل كافة الأوامر بنجاح في {0} ",
         "enabledcommands": "<:valtdone:987760891737026620> Commands are successfully enabled in {0}"
     },
     "permissions": {
